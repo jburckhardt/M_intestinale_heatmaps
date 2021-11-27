@@ -30,5 +30,5 @@ Where:
 - **Strain1-N** = The number of genes found for the specific subsystem for the specific strain.
 
 This app allows the user to interactively compare the different gene subsystems found in M. intestinale in a visual format (using Heatmaps). 
-This app facilitates finding patterns and difference in gene systems for different M. intestinale strains, which can lead to the creation of new
-hypotheses surrounding this unexplored bacterium.
+This app facilitates finding patterns and differences in gene systems for different M. intestinale strains, which can lead to the creation of new
+hypotheses surrounding this unexplored bacterium. Currently, the app only allows the user to filter base on gene category and select strains of interest. However, many other functionalities can be added to it in the future! 
