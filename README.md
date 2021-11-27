@@ -2,10 +2,14 @@
 
 **link to a running instance of your Shiny app:**
 
+http://jburckhardt.shinyapps.io/M_intestinale_heatmaps
+
 **Choice of assignment:** 
+
 Choice B - own Shiny app.
 
 **A description of your app**
+
 *Muribacul instestinale* (*M. intestinale*) is a bacterial family that is part of the micrboes that live within the human gut. Although *M. intestinale* 
 is culturable in the lab, we still do not understand many of its genetic functions. There are many isolated strains of *M. intestinale*, but we have been unable to
 really compare and constrast their genomes. Thus, using sequencing data for different *M. intestinale* strains obtained in my lab (Tropini lab, unpublished data), I 
@@ -25,6 +29,6 @@ Where:
 - **Subsystem** = A more sprecific grouping of genes with 'similar' functions.
 - **Strain1-N** = The number of genes found for the specific subsystem for the specific strain.
 
-This apps allows the user to interactively compare the different gene subsystems found in M. intestinale in a visual format (using Heatmaps). 
+This app allows the user to interactively compare the different gene subsystems found in M. intestinale in a visual format (using Heatmaps). 
 This app facilitates finding patterns and difference in gene systems for different M. intestinale strains, which can lead to the creation of new
 hypotheses surrounding this unexplored bacterium.
