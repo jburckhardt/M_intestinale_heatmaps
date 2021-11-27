@@ -14,19 +14,32 @@ dat <- read_csv(here::here("S24_7_subsystems.csv")) %>%
 # Define UI for application that draws a heatmap and also makes a table of the heatmap values
 ui <- fluidPage(
     # Application title
-    titlePanel("S24-7 Strains Subsystem Gene Comparisons"),
-    "Look at the number of features (genes) in subsystems predicted for the genomes of different S24-7 strains based on a selected gene category.
-    Predictions where done from genome annotations from the RAST Web server.",
+    titlePanel("M. intestinale Strains Heatmaps"),
+    "Look at the number of features (genes) in subsystems predicted for the genomes of different M. intestinale strains based for a selected gene category.
+    Subsystem predictions were done from genome annotations using the RAST Web server (https://rast.nmpdr.org/)",
     br(),
     
-    # This create the layout for both the side pannel (select choices) and the main pannel (plot and table)
+    # FEATURE 1: This create the layout for both the side panel (select choices) 
+    # and the main panel (plot and table). In the sidebarPanel we have the checkboxes so the 
+    # user can select different Bacterial strains. Right below it we have a drop-down menu with
+    # the different gene categories the user can explore. In the main pannel we have the heatmap
+    # that will be rendered, and below it a table with the values for each cell of the heatmap
     sidebarLayout(
         sidebarPanel(verticalLayout(
-            checkboxGroupInput("my_choices", "Select S24-7 Strains", 
+            
+            
+            # Feature 2: This creates checkboxes that allows the user to select which strains
+            # they want to see in the rended heatmap. The default select all strains
+            checkboxGroupInput("my_choices", "Select M. intestinale Strains", 
                                choices = unique(dat$strain), selected = unique(dat$strain)),
+            
+            # Feature 3: This creates a drop-down menu with the different gene categories that the user
+            # can select to make a heatmap about. # defaults is 'Stress Response' 
             selectInput("my_category", "Select Gene Category", 
                         choices = unique(dat$Category), selected = "Stress Response")
         )),
+        
+        # Here it the main panel that has the plot and table below it
         mainPanel(
             plotOutput("my_heatmap"),
             tableOutput("my_table")
@@ -34,9 +47,10 @@ ui <- fluidPage(
     )
 )
 
-# Define server logic required to draw a histogram
+# Define server logic required to draw a heatmap
 server <- function(input, output) {
-    # store 
+    # Filter the data set (dat) with the input parameters given by the used and
+    # store it into a variable
     filtered <- reactive({
         print(input$my_choices)
         print(input$my_category)
@@ -45,20 +59,21 @@ server <- function(input, output) {
             filter(Category == input$my_category)
     })
     
-    # function for the heatmap plot
+    # Creates heatmap by using ggplot
     output$my_heatmap <- renderPlot(
         filtered() %>%
             ggplot(aes(x = strain, y = Subsystem, fill = value)) +
-            geom_tile(color = "black") +
-            scale_fill_gradient(low = "gray98", high = "black") + 
-            theme(axis.text.x = element_text(angle = 90)) # rotate x labels 90 degrees
+                geom_tile(color = "black") + # geom_tile is used to make heatmaps
+                scale_fill_gradient(low = "gray98", high = "black") +  # Selects the minimum and maximum color for the cells
+                theme(axis.text.x = element_text(angle = 90)) # rotate x labels by 90 degrees
     )
     
-    # output table with value on the bottom
+    # output table with value for each cell below the heatmap. since we had to change
+    # the dat table to be in tidy format, we are reverting it to the untidy, but more readable format.
     output$my_table <- renderTable(
         filtered() %>%
             pivot_wider(names_from = strain, values_from = value) %>%
-            select(-Category)
+            select(-Category) # This column is redundant
     )
 }
 
