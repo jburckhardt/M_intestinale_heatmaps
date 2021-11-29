@@ -72,11 +72,11 @@ server <- function(input, output) {
         print(input$my_choices)
         print(input$my_category)
         print(input$subcategory)
-        
+
         if(input$subcategory == TRUE){
             return(
                 filtered_cat() %>%
-                    filter(Subcategory %in% input$my_subcategory)
+                filter(Subcategory %in% input$my_subcategory)
             )}
         filtered_cat()
     })
@@ -85,8 +85,8 @@ server <- function(input, output) {
     output$sub <- renderUI({
         conditionalPanel(condition = "input.subcategory == true",
                          checkboxGroupInput("my_subcategory", "Select Gene Subcategory", 
-                                            choices = unique(filtered_cat()$Subcategory), selected = filtered_cat()$Subcategory))
-    })
+                                     choices = unique(filtered_cat()$Subcategory), selected = filtered_cat()$Subcategory))
+        })
     
     
     # Creates heatmap by using ggplot
@@ -97,6 +97,14 @@ server <- function(input, output) {
             scale_fill_gradient(low = "gray98", high = "black") +  # Selects the minimum and maximum color for the cells
             theme(axis.text.x = element_text(angle = 90)) # rotate x labels by 90 degrees 
         
+        # if(input$subcategory == TRUE){
+        #     filtered2() %>%
+        #         ggplot(aes(x = strain, y = Subsystem, fill = value)) +
+        #         geom_tile(color = "black") + # geom_tile is used to make heatmaps
+        #         scale_fill_gradient(low = "gray98", high = "black") +  # Selects the minimum and maximum color for the cells
+        #         theme(axis.text.x = element_text(angle = 90)) # rotate x labels by 90 degrees 
+        # }
+
     })
     
     # output table with value for each cell below the heatmap. since we had to change
