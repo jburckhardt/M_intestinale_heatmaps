@@ -1,0 +1,233 @@
+Category,Subcategory,Subsystem,M_intestinale_16COLB,M_intestinale_3SKV,M_intestinale_6FAAM,M_intestinale_7BRU,M_intestinale_7GAM,M_intestinale_8CFAA,M_intestinale_8FP,M_intestinale_G6,M_intestinale_NM4,M_intestinale_NM6,M_intestinale_NM65
+Amino Acids and Derivatives,"Alanine, serine, and glycine",Alanine biosynthesis,2,2,2,2,2,2,2,3,3,2,2
+Amino Acids and Derivatives,"Alanine, serine, and glycine",Glycine and Serine Utilization,13,12,14,12,12,14,13,14,13,12,14
+Amino Acids and Derivatives,"Alanine, serine, and glycine",Glycine Biosynthesis,1,3,1,3,3,1,1,1,3,1,1
+Amino Acids and Derivatives,"Alanine, serine, and glycine",Glycine cleavage system,5,5,5,5,4,5,4,5,5,4,4
+Amino Acids and Derivatives,"Alanine, serine, and glycine",Serine Biosynthesis,5,5,6,5,3,5,5,5,6,5,5
+Amino Acids and Derivatives,"Arginine; urea cycle, polyamines",Arginine Biosynthesis -- gjo,0,0,0,0,0,0,0,0,9,9,8
+Amino Acids and Derivatives,"Arginine; urea cycle, polyamines",Arginine Biosynthesis extended,0,0,0,0,0,0,0,0,9,9,8
+Amino Acids and Derivatives,"Arginine; urea cycle, polyamines",Urea decomposition,8,0,0,8,8,0,0,7,8,6,7
+Amino Acids and Derivatives,"Arginine; urea cycle, polyamines",Urease subunits,8,0,0,7,7,0,0,7,7,6,7
+Amino Acids and Derivatives,Aromatic amino acids and derivatives,Aromatic amino acid interconversions with aryl acids,2,0,0,2,2,2,0,0,0,0,0
+Amino Acids and Derivatives,Aromatic amino acids and derivatives,"Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.",4,0,3,0,0,0,0,10,9,9,9
+Amino Acids and Derivatives,Aromatic amino acids and derivatives,Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate),6,6,6,6,6,6,6,6,6,6,6
+Amino Acids and Derivatives,Aromatic amino acids and derivatives,Indole-pyruvate oxidoreductase complex,2,0,0,2,2,2,0,0,0,0,0
+Amino Acids and Derivatives,Aromatic amino acids and derivatives,Phenylalanine and Tyrosine Branches from Chorismate,1,4,4,1,4,1,6,4,4,4,4
+Amino Acids and Derivatives,Aromatic amino acids and derivatives,Tryptophan synthesis,0,0,0,0,0,0,0,9,7,8,8
+Amino Acids and Derivatives,Branched-chain amino acids,Branched-Chain Amino Acid Biosynthesis,0,8,10,0,8,0,9,9,9,9,9
+Amino Acids and Derivatives,Branched-chain amino acids,Leucine Biosynthesis,0,5,5,0,5,0,5,5,5,5,5
+Amino Acids and Derivatives,"Glutamine, glutamate, aspartate, asparagine; ammonia assimilation",Glutamate dehydrogenases,2,2,2,1,2,1,2,2,2,2,2
+Amino Acids and Derivatives,"Glutamine, glutamate, aspartate, asparagine; ammonia assimilation",Glutamine synthetases,1,2,2,2,2,2,1,2,2,1,2
+Amino Acids and Derivatives,"Glutamine, glutamate, aspartate, asparagine; ammonia assimilation","Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis",10,11,14,10,12,10,11,13,13,13,13
+Amino Acids and Derivatives,Histidine Metabolism,Histidine Biosynthesis,0,7,8,0,8,0,0,9,8,9,8
+Amino Acids and Derivatives,Histidine Metabolism,Histidine Degradation,4,0,4,4,4,4,0,6,5,0,4
+Amino Acids and Derivatives,"Lysine, threonine, methionine, and cysteine",Cysteine Biosynthesis,0,3,4,0,3,0,3,3,3,3,3
+Amino Acids and Derivatives,"Lysine, threonine, methionine, and cysteine",Lysine Biosynthesis DAP Pathway,6,9,10,9,9,6,9,11,10,9,9
+Amino Acids and Derivatives,"Lysine, threonine, methionine, and cysteine","Lysine Biosynthesis DAP Pathway, GJO scratch",6,9,10,9,9,6,9,11,10,9,9
+Amino Acids and Derivatives,"Lysine, threonine, methionine, and cysteine",Methionine Biosynthesis,6,14,17,0,14,0,14,19,16,14,15
+Amino Acids and Derivatives,"Lysine, threonine, methionine, and cysteine",Methionine Degradation,3,4,4,3,4,3,4,4,4,5,5
+Amino Acids and Derivatives,"Lysine, threonine, methionine, and cysteine",Threonine and Homoserine Biosynthesis,6,10,11,7,11,7,9,12,11,10,9
+Amino Acids and Derivatives,"Lysine, threonine, methionine, and cysteine",Threonine degradation,2,1,2,2,2,2,1,1,2,2,1
+Amino Acids and Derivatives,Proline and 4-hydroxyproline,Proline Synthesis,6,6,6,0,6,0,0,6,6,6,6
+Carbohydrates,Aminosugars,Chitin and N-acetylglucosamine utilization,0,0,0,0,0,0,5,0,0,6,0
+Carbohydrates,Central carbohydrate metabolism,"Glycolate, glyoxylate interconversions",1,1,1,1,1,1,1,1,1,1,1
+Carbohydrates,Central carbohydrate metabolism,Glycolysis and Gluconeogenesis,10,10,11,11,11,9,11,16,11,11,11
+Carbohydrates,Central carbohydrate metabolism,Methylglyoxal Metabolism,0,2,2,0,0,1,1,1,1,0,1
+Carbohydrates,Central carbohydrate metabolism,Pentose phosphate pathway,0,0,0,0,0,0,0,0,4,4,4
+Carbohydrates,Central carbohydrate metabolism,Pyruvate Alanine Serine Interconversions,6,6,5,5,6,5,5,5,5,2,4
+Carbohydrates,Central carbohydrate metabolism,"Pyruvate metabolism I: anaplerotic reactions, PEP",4,4,5,4,4,4,6,8,5,6,6
+Carbohydrates,Central carbohydrate metabolism,"Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate",5,3,3,3,3,3,3,3,4,3,3
+Carbohydrates,Central carbohydrate metabolism,Pyruvate:ferredoxin oxidoreductase,0,0,0,0,0,0,0,0,1,1,1
+Carbohydrates,CO2 fixation,"CO2 uptake, carboxysome",0,2,0,0,0,0,0,0,0,0,1
+Carbohydrates,Di- and oligosaccharides,Lactose and Galactose Uptake and Utilization,4,6,7,6,5,5,4,7,5,5,6
+Carbohydrates,Di- and oligosaccharides,Maltose and Maltodextrin Utilization,12,10,9,18,14,13,6,11,17,12,10
+Carbohydrates,Di- and oligosaccharides,Sucrose utilization,2,0,0,0,0,0,0,0,0,0,0
+Carbohydrates,Fermentation,Acetolactate synthase subunits,0,0,2,0,2,0,2,2,2,2,2
+Carbohydrates,Monosaccharides,D-Galacturonate and D-Glucuronate Utilization,0,13,18,12,15,0,0,13,15,13,11
+Carbohydrates,Monosaccharides,D-ribose utilization,0,1,0,2,2,0,0,2,2,0,2
+Carbohydrates,Monosaccharides,Deoxyribose and Deoxynucleoside Catabolism,3,5,4,6,6,4,4,6,5,4,5
+Carbohydrates,Monosaccharides,L-Arabinose utilization,0,5,6,4,10,0,0,13,9,0,14
+Carbohydrates,Monosaccharides,Mannose Metabolism,2,3,2,6,6,11,6,2,9,8,2
+Carbohydrates,Monosaccharides,Xylose utilization,0,0,5,2,5,4,0,3,9,3,3
+Carbohydrates,One-carbon Metabolism,One-carbon metabolism by tetrahydropterines,4,4,6,4,5,4,4,6,5,5,6
+Carbohydrates,Organic acids,Glycerate metabolism,0,0,0,0,2,1,0,2,0,2,2
+Carbohydrates,Organic acids,Lactate utilization,0,0,2,0,0,0,0,0,4,2,0
+Carbohydrates,Polysaccharides,Glycogen metabolism,5,4,3,4,5,5,4,4,4,5,4
+Carbohydrates,Sugar alcohols,Glycerol and Glycerol-3-phosphate Uptake and Utilization,0,10,0,11,8,0,0,9,6,14,9
+Cell Division and Cell Cycle,Checkpoint control,Bacterial checkpoint-control-related cluster,3,3,3,3,3,3,3,3,3,3,3
+Cell Wall and Capsule,Capsular and extracellular polysacchrides,CMP-N-acetylneuraminate Biosynthesis,2,0,3,0,0,3,0,2,0,0,2
+Cell Wall and Capsule,Capsular and extracellular polysacchrides,dTDP-rhamnose synthesis,4,4,10,4,6,5,5,6,13,4,6
+Cell Wall and Capsule,Capsular and extracellular polysacchrides,Rhamnose containing glycans,8,8,12,10,13,9,9,15,17,8,12
+Cell Wall and Capsule,Cell Wall and Capsule - no subcategory,Murein Hydrolases,3,2,5,4,3,5,5,2,5,3,4
+Cell Wall and Capsule,Cell Wall and Capsule - no subcategory,Recycling of Peptidoglycan Amino Acids,3,2,5,4,3,5,4,3,5,4,4
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipid A-Ara4N pathway ( Polymyxin resistance ),0,0,0,0,0,0,0,0,0,3,3
+Cell Wall and Capsule,Gram-Negative cell wall components,Lipoprotein sorting system,0,0,0,1,0,1,1,0,0,1,0
+Cell Wall and Capsule,Gram-Positive cell wall components,Polyglycerolphosphate lipoteichoic acid biosynthesis,1,0,0,0,0,0,0,0,0,0,0
+Cell Wall and Capsule,Gram-Positive cell wall components,Teichoic and lipoteichoic acids biosynthesis,0,4,0,0,0,0,0,2,0,0,3
+Cell Wall and Capsule,Gram-Positive cell wall components,Teichuronic acid biosynthesis,0,0,0,0,0,0,1,1,3,0,0
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Biotin,Biotin biosynthesis,6,0,6,7,0,6,6,6,9,8,7
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Biotin,Biotin biosynthesis Experimental,4,0,4,3,1,4,4,4,5,5,5
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Coenzyme A,Coenzyme A Biosynthesis,8,8,0,0,9,0,9,9,8,8,8
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Coenzyme A,Coenzyme A Biosynthesis cluster,4,4,4,5,5,4,5,4,4,5,4
+"Cofactors, Vitamins, Prosthetic Groups, Pigments","Cofactors, Vitamins, Prosthetic Groups, Pigments - no subcategory",Thiamin biosynthesis,7,6,10,6,6,5,6,7,7,3,7
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Folate and pterines,5-FCL-like protein,12,10,16,13,13,12,11,17,15,10,16
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Folate and pterines,Folate Biosynthesis,16,10,10,9,9,9,10,13,11,10,12
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Folate and pterines,Folate biosynthesis cluster,9,9,9,0,0,0,9,9,0,8,8
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Lipoic acid,Lipoic acid metabolism,1,1,1,0,1,1,1,1,0,1,1
+"Cofactors, Vitamins, Prosthetic Groups, Pigments","NAD and NADP","NAD and NADP cofactor biosynthesis global",8,8,8,7,10,7,8,9,9,9,9
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Pyridoxine,Pyridoxin (Vitamin B6) Biosynthesis,7,7,10,7,7,8,8,7,8,7,7
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Pyridoxine,Pyridoxin(Vitamin B6) Degradation Pathway,0,0,0,1,1,0,0,0,0,1,0
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Quinone cofactors,Menaquinone and Phylloquinone Biosynthesis,0,0,0,0,0,0,0,0,6,0,0
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Quinone cofactors,Menaquinone and Phylloquinone Biosynthesis -- gjo,0,0,0,0,0,0,0,0,6,0,0
+"Cofactors, Vitamins, Prosthetic Groups, Pigments","Riboflavin, FMN, FAD",Flavodoxin,1,3,1,0,2,0,2,2,1,1,2
+"Cofactors, Vitamins, Prosthetic Groups, Pigments","Riboflavin, FMN, FAD",riboflavin to FAD,4,4,4,4,4,4,4,4,4,4,4
+"Cofactors, Vitamins, Prosthetic Groups, Pigments","Riboflavin, FMN, FAD","Riboflavin, FMN and FAD metabolism",9,8,8,8,8,8,8,9,8,8,9
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",Tetrapyrroles,Cobalamin synthesis,0,0,8,8,0,0,0,10,9,0,10
+DNA Metabolism,CRISPs,CRISPRs,0,0,0,1,2,0,0,2,4,0,2
+DNA Metabolism,DNA Metabolism - no subcategory,"DNA structural proteins, bacterial",1,1,4,6,1,2,2,1,1,3,2
+DNA Metabolism,DNA Metabolism - no subcategory,Restriction-Modification System,11,1,7,17,7,7,8,7,10,5,10
+DNA Metabolism,DNA Metabolism - no subcategory,Type I Restriction-Modification,8,0,0,13,5,2,4,4,6,2,3
+DNA Metabolism,DNA repair,2-phosphoglycolate salvage,1,1,1,1,1,1,1,1,1,1,1
+DNA Metabolism,DNA repair,"DNA repair system including RecA, MutS and a hypothetical protein",2,2,3,3,2,2,3,3,2,4,2
+DNA Metabolism,DNA repair,"DNA repair, bacterial",18,12,16,17,16,16,12,14,22,11,13
+DNA Metabolism,DNA repair,"DNA repair, bacterial MutL-MutS system",3,3,4,4,3,3,4,5,3,5,4
+DNA Metabolism,DNA repair,"DNA repair, bacterial RecBCD pathway",0,0,0,2,0,3,0,0,2,6,0
+DNA Metabolism,DNA repair,"DNA repair, bacterial RecFOR pathway",0,0,0,0,0,0,0,0,0,0,8
+DNA Metabolism,DNA repair,"DNA repair, bacterial UvrD and related helicases",0,0,0,0,0,1,0,0,0,0,0
+DNA Metabolism,DNA repair,"DNA repair, UvrABC system",4,4,4,4,4,4,4,4,4,4,4
+DNA Metabolism,DNA replication,"DNA topoisomerases, Type I, ATP-independent",2,2,7,3,2,4,2,2,4,4,3
+DNA Metabolism,DNA replication,"DNA topoisomerases, Type II, ATP-dependent",2,2,2,2,2,2,2,3,4,4,4
+DNA Metabolism,"DNA uptake, competence",DNA processing cluster,3,3,3,3,3,3,3,3,3,3,3
+Dormancy and Sporulation,Dormancy and Sporulation - no subcategory,Persister Cells,0,0,0,0,0,0,1,0,0,0,0
+Dormancy and Sporulation,Dormancy and Sporulation - no subcategory,Sporulation-associated proteins with broader functions,1,1,1,1,1,1,1,1,1,1,1
+"Fatty Acids, Lipids, and Isoprenoids",Isoprenoids,Isoprenoid Biosynthesis: Interconversions,0,0,0,0,0,1,0,0,0,0,0
+"Fatty Acids, Lipids, and Isoprenoids",Isoprenoids,Isoprenoinds for Quinones,2,3,3,3,3,5,2,3,4,4,4
+"Fatty Acids, Lipids, and Isoprenoids",Isoprenoids,Nonmevalonate Branch of Isoprenoid Biosynthesis,5,5,0,0,6,6,6,0,5,5,5
+"Fatty Acids, Lipids, and Isoprenoids",Isoprenoids,Polyprenyl Diphosphate Biosynthesis,0,0,0,0,0,4,0,0,0,0,0
+"Fatty Acids, Lipids, and Isoprenoids",Phospholipids,Cardiolipin synthesis,0,0,0,0,0,0,0,0,0,1,0
+"Fatty Acids, Lipids, and Isoprenoids",Triacylglycerols,Triacylglycerol metabolism,1,1,2,1,2,2,2,2,3,1,2
+Iron acquisition and metabolism,Iron acquisition and metabolism - no subcategory,Hemin transport system,0,0,0,0,0,0,0,0,1,0,0
+Membrane Transport,Cation transporters,Copper Transport System,0,0,0,3,2,1,0,3,1,1,1
+Membrane Transport,Cation transporters,Magnesium transport,0,1,0,0,0,0,0,0,0,0,0
+Membrane Transport,Cation transporters,Transport of Nickel and Cobalt,0,0,0,0,0,0,0,4,5,4,4
+Membrane Transport,Membrane Transport - no subcategory,ECF class transporters,0,0,0,0,0,0,0,4,5,4,4
+Membrane Transport,Membrane Transport - no subcategory,Ton and Tol transport systems,0,0,0,15,13,0,0,15,19,16,14
+Membrane Transport,Protein translocation across cytoplasmic membrane,Twin-arginine translocation system,2,2,2,2,2,2,2,3,2,2,2
+Membrane Transport,Uni- Sym- and Antiporters,"NhaA, NhaD and Sodium-dependent phosphate transporters",3,3,3,3,2,3,2,2,3,3,2
+Metabolism of Aromatic Compounds,Peripheral pathways for catabolism of aromatic compounds,Quinate degradation,1,1,1,1,1,1,1,1,1,1,1
+Miscellaneous,Miscellaneous - no subcategory,Broadly distributed proteins not in subsystems,1,0,1,1,1,1,2,2,1,1,1
+Miscellaneous,Miscellaneous - no subcategory,Muconate lactonizing enzyme family,1,1,1,1,1,1,1,1,1,1,1
+Miscellaneous,Miscellaneous - no subcategory,Phosphoglycerate mutase protein family,0,0,1,1,0,0,0,1,1,0,2
+Miscellaneous,Plant-Prokaryote DOE project,Iron-sulfur cluster assembly,0,0,0,0,0,0,0,0,6,0,0
+Nitrogen Metabolism,Nitrogen Metabolism - no subcategory,Ammonia assimilation,0,0,5,0,0,0,0,6,4,5,5
+Nitrogen Metabolism,Nitrogen Metabolism - no subcategory,Nitrosative stress,0,1,0,0,1,0,0,0,0,1,0
+Nucleosides and Nucleotides,Detoxification,Housecleaning nucleoside triphosphate pyrophosphatases,1,1,1,1,1,1,1,1,1,1,1
+Nucleosides and Nucleotides,Detoxification,Nucleoside triphosphate pyrophosphohydrolase MazG,1,1,1,1,1,1,1,1,1,1,1
+Nucleosides and Nucleotides,Detoxification,Nudix proteins (nucleoside triphosphate hydrolases),1,2,3,2,3,1,2,2,2,3,2
+Nucleosides and Nucleotides,Nucleosides and Nucleotides - no subcategory,Adenosyl nucleosidases,4,4,4,4,4,4,4,4,2,4,4
+Nucleosides and Nucleotides,Nucleosides and Nucleotides - no subcategory,dNTP triphosphohydrolase protein family,1,1,0,0,1,0,1,1,0,0,0
+Nucleosides and Nucleotides,Nucleosides and Nucleotides - no subcategory,Ribonucleotide reduction,3,3,3,3,3,3,3,3,5,3,3
+Nucleosides and Nucleotides,Purines,De Novo Purine Biosynthesis,12,12,12,12,12,12,12,14,14,13,13
+Nucleosides and Nucleotides,Purines,GMP synthase,2,2,2,2,2,2,2,2,2,2,2
+Nucleosides and Nucleotides,Purines,Purine conversions,15,16,16,13,16,14,16,17,15,16,16
+Nucleosides and Nucleotides,Purines,Purine Utilization,1,1,0,1,0,1,0,1,1,1,1
+Nucleosides and Nucleotides,Pyrimidines,pyrimidine conversions,17,15,17,13,15,13,16,16,14,16,17
+"Phages, Prophages, Transposable elements, Plasmids","Phages, Prophages",IbrA and IbrB: co-activators of prophage gene expression,0,2,0,0,0,0,0,0,0,0,0
+"Phages, Prophages, Transposable elements, Plasmids","Phages, Prophages",Phage introns,0,0,0,0,0,0,0,0,0,1,0
+"Phages, Prophages, Transposable elements, Plasmids","Phages, Prophages",Phage lysis modules,5,1,1,1,0,1,1,1,0,0,0
+"Phages, Prophages, Transposable elements, Plasmids","Phages, Prophages",Phage packaging machinery,0,0,0,0,0,0,0,1,1,1,0
+"Phages, Prophages, Transposable elements, Plasmids","Phages, Prophages",Phage tail proteins,0,0,0,1,0,0,0,0,0,0,0
+"Phages, Prophages, Transposable elements, Plasmids","Phages, Prophages",Phage tail proteins 2,0,0,0,1,0,0,0,0,0,0,0
+"Phages, Prophages, Transposable elements, Plasmids",Transposable elements,"Conjugative transposon, Bacteroidales",0,0,99,36,14,47,0,0,51,65,36
+Phosphorus Metabolism,Phosphorus Metabolism - no subcategory,High affinity phosphate transporter and control of PHO regulon,0,7,3,4,3,4,3,4,2,4,4
+Phosphorus Metabolism,Phosphorus Metabolism - no subcategory,Phosphate metabolism,7,15,10,11,11,10,0,12,9,11,12
+Phosphorus Metabolism,Phosphorus Metabolism - no subcategory,Phosphoenolpyruvate phosphomutase,0,0,0,0,0,0,0,0,0,0,3
+Potassium metabolism,Potassium metabolism - no subcategory,Potassium homeostasis,8,7,6,6,6,6,4,7,8,5,8
+Protein Metabolism,Protein biosynthesis,Programmed frameshift,2,0,2,2,2,2,2,2,2,1,2
+Protein Metabolism,Protein biosynthesis,Ribosome LSU bacterial,34,34,34,34,34,34,34,0,34,34,34
+Protein Metabolism,Protein biosynthesis,Ribosome SSU bacterial,23,23,23,23,23,23,23,0,23,23,23
+Protein Metabolism,Protein biosynthesis,rRNAs,3,0,5,7,3,0,0,12,4,5,5
+Protein Metabolism,Protein biosynthesis,Translation elongation factor G family,1,1,1,1,1,1,1,1,1,1,1
+Protein Metabolism,Protein biosynthesis,Translation elongation factors bacterial,5,5,5,5,5,5,5,6,5,5,5
+Protein Metabolism,Protein biosynthesis,Translation initiation factors bacterial,5,5,5,5,5,5,5,6,7,5,5
+Protein Metabolism,Protein biosynthesis,Translation termination factors bacterial,9,8,8,10,9,9,9,8,8,9,8
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Ala",1,1,1,1,1,1,1,1,1,1,1
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Arg",1,1,1,1,1,1,1,2,1,1,1
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Asp and Asn",2,2,2,2,2,2,2,2,2,2,2
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Cys",1,1,1,1,1,1,1,1,1,1,1
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Glu and Gln",2,2,2,2,2,2,2,2,2,2,2
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Gly",1,1,1,1,1,1,1,2,1,1,1
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, His",1,1,1,1,1,1,1,1,1,1,1
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Ile",1,1,1,1,1,1,1,1,1,1,1
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Leu",1,1,1,1,1,1,1,1,1,1,1
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Lys",1,1,1,1,1,1,1,1,1,1,1
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Met",1,1,1,1,1,1,1,1,1,1,1
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Phe",2,2,2,2,2,2,2,2,2,2,2
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Pro",2,2,2,1,2,2,2,2,2,2,2
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Ser",1,1,1,1,1,1,1,1,1,1,1
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Thr",1,1,1,1,1,1,1,1,1,1,1
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Trp",1,1,1,1,1,1,1,1,1,1,1
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Tyr",1,1,1,1,1,1,1,1,1,1,1
+Protein Metabolism,Protein biosynthesis,"tRNA aminoacylation, Val",1,1,1,1,1,1,1,2,1,1,1
+Protein Metabolism,Protein biosynthesis,tRNAs,18,18,19,19,16,17,16,17,16,19,15
+Protein Metabolism,Protein degradation,Aminopeptidases (EC 3.4.11.-),3,2,2,4,4,2,3,4,4,2,4
+Protein Metabolism,Protein degradation,Metallocarboxypeptidases (EC 3.4.17.-),2,1,2,2,2,2,2,1,2,1,2
+Protein Metabolism,Protein degradation,Protein degradation,3,3,4,4,3,3,5,4,5,3,4
+Protein Metabolism,Protein degradation,"Proteolysis in bacteria, ATP-dependent",4,4,4,0,4,4,4,5,8,6,6
+Protein Metabolism,Protein degradation,Serine endopeptidase (EC 3.4.21.-),1,1,1,0,1,1,1,1,1,1,1
+Protein Metabolism,Protein folding,GroEL GroES,0,0,0,0,0,0,0,0,5,5,7
+Protein Metabolism,Protein folding,Peptidyl-prolyl cis-trans isomerase,4,3,4,5,4,4,4,4,5,4,4
+Protein Metabolism,Protein folding,Periplasmic disulfide interchange,1,1,1,1,1,2,1,1,1,1,1
+Protein Metabolism,Protein folding,Protein chaperones,4,4,4,4,4,4,4,6,5,5,7
+Protein Metabolism,Protein processing and modification,G3E family of P-loop GTPases (metallocenter biosynthesis),10,0,0,8,9,0,0,9,9,0,9
+Protein Metabolism,Protein processing and modification,N-linked Glycosylation in Bacteria,0,0,6,0,0,0,0,0,4,0,0
+Protein Metabolism,Protein processing and modification,Peptide methionine sulfoxide reductase,0,0,0,0,0,0,0,0,0,0,2
+Protein Metabolism,Protein processing and modification,Ribosomal protein S5p acylation,2,0,0,0,0,0,0,0,0,0,0
+Protein Metabolism,Protein processing and modification,Signal peptidase,2,2,2,3,2,2,4,2,4,2,2
+Regulation and Cell signaling,Programmed Cell Death and Toxin-antitoxin Systems,Murein hydrolase regulation and cell death,3,3,3,3,3,3,3,3,3,4,3
+Regulation and Cell signaling,Programmed Cell Death and Toxin-antitoxin Systems,Toxin-antitoxin replicon stabilization systems,0,0,0,0,1,0,0,0,0,0,0
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,cAMP signaling in bacteria,0,0,0,0,0,0,0,0,0,5,5
+Regulation and Cell signaling,Regulation and Cell signaling - no subcategory,"Stringent Response, (p)ppGpp metabolism",3,3,4,3,3,3,3,4,5,4,3
+Respiration,Electron accepting reactions,Terminal cytochrome d ubiquinol oxidases,2,2,2,2,2,2,0,2,2,2,2
+Respiration,Electron accepting reactions,Terminal cytochrome oxidases,2,2,2,2,2,2,0,2,2,2,2
+Respiration,Electron donating reactions,Na(+)-translocating NADH-quinone oxidoreductase and rnf-like group of electron transport complexes,0,6,6,0,6,0,0,7,6,6,6
+Respiration,Electron donating reactions,"NADH ubiquinone oxidoreductase",11,11,11,11,11,12,11,12,11,11,11
+Respiration,Electron donating reactions,Respiratory Complex I,11,11,11,11,11,12,11,12,11,11,11
+Respiration,Electron donating reactions,Respiratory dehydrogenases 1,1,0,1,5,5,1,1,4,5,4,4
+Respiration,Respiration - no subcategory,Biogenesis of c-type cytochromes,2,1,1,1,1,2,1,2,3,1,2
+Respiration,Respiration - no subcategory,Soluble cytochromes and functionally related electron carriers,2,3,2,1,3,1,3,4,2,2,3
+Respiration,Sodium Ion-Coupled Energetics,Na+ translocating decarboxylases and related biotin-dependent enzymes,3,3,4,4,0,4,3,0,4,4,3
+RNA Metabolism,RNA Metabolism - no subcategory,Group II intron-associated genes,0,0,2,0,1,3,1,1,1,4,1
+RNA Metabolism,RNA processing and modification,"ATP-dependent RNA helicases, bacterial",0,0,0,0,0,0,0,0,0,0,1
+RNA Metabolism,RNA processing and modification,Ribonuclease H,2,2,3,2,2,2,2,2,3,2,2
+RNA Metabolism,RNA processing and modification,RNA 3'-terminal phosphate cyclase,2,0,1,2,2,1,2,1,1,2,1
+RNA Metabolism,RNA processing and modification,RNA methylation,3,2,2,3,2,2,3,4,4,2,4
+RNA Metabolism,RNA processing and modification,"RNA processing and degradation, bacterial",1,1,1,1,1,1,1,1,1,1,1
+RNA Metabolism,RNA processing and modification,tRNA processing,4,4,4,4,4,4,4,4,4,4,4
+RNA Metabolism,Transcription,RNA polymerase bacterial,4,4,4,4,4,4,4,4,4,5,4
+RNA Metabolism,Transcription,Transcription factors bacterial,6,7,7,7,7,7,7,8,7,7,7
+RNA Metabolism,Transcription,"Transcription initiation, bacterial sigma factors",2,2,2,2,2,2,2,3,3,3,2
+Secondary Metabolism,Plant Alkaloids,Alkaloid biosynthesis from L-lysine,1,1,1,1,1,1,1,1,1,1,1
+Secondary Metabolism,Plant Hormones,Auxin biosynthesis,0,0,0,0,0,0,0,5,0,4,4
+Secondary Metabolism,Secondary Metabolism - no subcategory,Lanthionine Synthetases,0,0,0,0,0,0,0,0,0,1,0
+Stress Response,Osmotic stress,Osmoregulation,1,1,1,1,1,1,0,2,1,2,2
+Stress Response,Oxidative stress,Glutathione: Non-redox reactions,0,0,1,0,0,0,0,1,1,0,1
+Stress Response,Oxidative stress,Protection from Reactive Oxygen Species,1,1,1,0,1,1,1,1,1,1,1
+Stress Response,Oxidative stress,Rubrerythrin,3,3,4,3,2,2,2,4,2,3,4
+Stress Response,Periplasmic Stress,Periplasmic Stress Response,2,3,1,3,4,2,1,1,3,3,1
+Stress Response,Stress Response - no subcategory,Carbon Starvation,1,0,1,1,1,1,1,1,1,1,1
+Stress Response,Stress Response - no subcategory,SigmaB stress responce regulation,0,0,0,0,0,0,0,0,1,0,0
+Sulfur Metabolism,Sulfur Metabolism - no subcategory,Galactosylceramide and Sulfatide metabolism,0,0,0,4,0,1,2,0,0,5,0
+Sulfur Metabolism,Sulfur Metabolism - no subcategory,Thioredoxin-disulfide reductase,3,3,3,3,3,3,2,3,3,3,3
+"Virulence, Disease and Defense","Bacteriocins, ribosomally synthesized antibacterial peptides",Tolerance to colicin E2,0,0,0,0,0,0,0,1,0,1,1
+"Virulence, Disease and Defense",Invasion and intracellular resistance,Mycobacterium virulence operon involved in DNA transcription,2,2,2,2,2,2,2,2,2,3,2
+"Virulence, Disease and Defense",Invasion and intracellular resistance,Mycobacterium virulence operon involved in protein synthesis (LSU ribosomal proteins),3,3,3,3,3,3,3,3,3,3,3
+"Virulence, Disease and Defense",Invasion and intracellular resistance,Mycobacterium virulence operon involved in protein synthesis (SSU ribosomal proteins),4,4,4,4,4,4,4,4,4,4,4
+"Virulence, Disease and Defense",Invasion and intracellular resistance,Mycobacterium virulence operon possibly involved in quinolinate biosynthesis,3,3,3,3,3,3,3,3,3,3,3
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,Beta-lactamase,1,2,1,1,1,1,1,1,1,4,1
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,Bile hydrolysis,1,0,0,0,0,0,0,0,0,1,0
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,Cobalt-zinc-cadmium resistance,1,1,1,2,2,1,0,1,7,4,4
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,Copper homeostasis,0,0,0,3,2,1,0,3,4,1,1
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,Copper homeostasis: copper tolerance,0,2,1,1,0,1,1,1,1,0,1
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,Multidrug Resistance Efflux Pumps,2,4,4,3,3,2,4,2,4,3,3
+"Virulence, Disease and Defense",Resistance to antibiotics and toxic compounds,Resistance to fluoroquinolones,2,2,2,2,2,2,2,3,4,4,4
