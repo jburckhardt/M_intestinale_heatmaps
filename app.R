@@ -1,5 +1,9 @@
 library(shiny)
 library(tidyverse)
+library(plotly)
+library(shinydashboard)
+library(dashboardthemes)
+library(shinyWidgets)
 
 # Assignment B-3: Create a shinny app. I selected option B
 # Here are the three features I used:
@@ -9,59 +13,133 @@ library(tidyverse)
 
 # Load the data and then pivot_longer to make it in a tidy format to plot with ggplot2
 dat <- read_csv(here::here("S24_7_data.csv")) %>% 
-    pivot_longer(cols = starts_with("M_"), names_to = "strain")
+    pivot_longer(cols = starts_with("M_"), names_to = "strain") %>%
+    mutate(text = paste0("Strain: ", strain, "\n", "Row: ", Subsystem, "\n", "Value: ",round(value,0)))
 
-# Define UI for application that draws a heatmap and also makes a table of the heatmap values
-ui <- fluidPage(
-    # Application title
-    titlePanel("M. intestinale Strains Heatmaps"),
-    "Look at the number of features (genes) in subsystems predicted for the genomes of different M. intestinale strains based for a selected gene category.
-    Subsystem predictions were done from genome annotations using the RAST Web server (https://rast.nmpdr.org/)",
-    br(),
-    
-    # FEATURE 1: This create the layout for both the side panel (select choices) 
-    # and the main panel (plot and table). In the sidebarPanel we have the checkboxes so the 
-    # user can select different Bacterial strains. Right below it we have a drop-down menu with
-    # the different gene categories the user can explore. In the main pannel we have the heatmap
-    # that will be rendered, and below it a table with the values for each cell of the heatmap
-    sidebarLayout(
-        sidebarPanel(verticalLayout(
-            
-            
-            # Feature 2: This creates checkboxes that allows the user to select which strains
-            # they want to see in the rended heatmap. The default select all strains
-            checkboxGroupInput("my_choices", "Select M. intestinale Strains", 
-                               choices = unique(dat$strain), selected = unique(dat$strain)),
-            
-            # Feature 3: This creates a drop-down menu with the different gene categories that the user
-            # can select to make a heatmap about. # defaults is 'Stress Response' 
-            selectInput("my_category", "Select Gene Category",
-                        choices = unique(dat$Category), selected = "Stress Response"),
-            strong("Filter by:"),
-            checkboxInput("subcategory", "Subcategory"),
-            
-            uiOutput("sub"),
-            
-            
-            # conditionalPanel(condition = "input.subcategory == true",
-            #                  selectInput("my_subcategory", "Select Gene Subcategory", 
-            #                              choices = unique(dat$Subcategory), selected = "Oxidative stress"))
-            
-        )),
+ui <- dashboardPage(
+    dashboardHeader(title = "M. intestinale Strains Heatmaps"),
+    dashboardSidebar(
         
-        # Here it the main panel that has the plot and table below it
-        mainPanel(
-            plotOutput("my_heatmap"),
-            tableOutput("my_table")
+        # creating tabs for the app
+        sidebarMenu(
+            menuItem("Heatmap", tabName = "heatmap", icon = icon("fas fa-chart-bar")),
+            menuItem("Table", icon = icon("fas fa-table"), tabName = "table")
+            )
+        ),
+    
+    dashboardBody(
+        
+        # Set a theme using dashboardthemes
+        shinyDashboardThemes(
+            theme = "grey_light"
+        ),
+        
+        tabItems(
+            tabItem(tabName = "heatmap",
+                    h2("M. intestinale strain heatmaps"),
+                    br(),
+                    # In this fluid row we will have the options to be selected
+                    fluidRow(
+                        # box containing the plot!
+                        box(plotlyOutput("my_heatmap"), status = "warning", width = 6),
+                        
+                        # columns containing boxes with the different filtering widgets
+                        column(width = 6,
+                               
+                               # box to select different S24-7 strains - checkboxes
+                               box(title = "1) Select M. intestinale strains", status = "primary",
+                                   prettyCheckboxGroup(
+                                       inputId = "my_choices",
+                                       label = "Strains",
+                                       choices = unique(dat$strain),
+                                       selected = unique(dat$strain),
+                                       status = "primary",
+                                       shape = "curve"
+                                       )
+                                   ),
+                               
+                               # box to select different gene categories
+                               box(title = "2) Select gene category", status = "primary",
+                                   pickerInput("my_category", "Categories",
+                                               choices = unique(dat$Category), 
+                                               selected = "Stress Response", 
+                                               options = list(style = "btn-primary"))
+                                   ),
+                               
+                               # reactive switch that will allow the user to further filter to only include certain subcategories or subsystems
+                               box(title = "3) Filter by other gene groupings:", status = "primary",
+                                   strong("Filter by:"),
+                                   # switch for Subcategory filtering
+                                   materialSwitch(inputId = "subcategory", label = "Subcategory",
+                                                  value = FALSE, status = "primary"),
+                                   
+                                   # Switch for Subsystem filtering
+                                   materialSwitch(inputId = "subsystem", label = "Subsystem",
+                                                  value = FALSE, status = "primary"),
+                                   
+                                   uiOutput("subcat"),
+                                   uiOutput("subsys")
+                                   )
+                               )
+                        ),
+                    
+                    # box to change color of heatmap
+                    box(title = "4) Change Heatmap colors", status = "primary",
+                        "Note: Click checkmark icon to update or hit Enter",
+                        
+                        searchInput(
+                            inputId = "low",
+                            label = "Lowest value color:",
+                            value = "gray98",
+                            placeholder = "Type acceptable R color...",
+                            btnSearch = icon("check"), 
+                            btnReset = icon("remove"),
+                            width = "50%"),
+                        
+                        searchInput(
+                            inputId = "high",
+                            label = "Maximum value color:",
+                            value = "black",
+                            placeholder = "Type acceptable R color...",
+                            btnSearch = icon("check"), 
+                            btnReset = icon("remove"),
+                            width = "50%")
+                        ),
+                    
+                    # box to save plot
+                    box(title = "5) Save the plot", status = "primary",
+                        downloadBttn(outputId = "download_plot",
+                                     style = "jelly",
+                                     color = "primary")
+                        )
+            ),
+            
+            ###### This is for the table of values ###########
+            tabItem(tabName = "table",
+                    h2("Table of heatmap values"),
+                    fluidRow(
+                        box(status = "warning", width = 8,
+                            tableOutput("my_table"),
+                            style='overflow-x: scroll'
+                            ),
+                        box(title = "Save table:", status = "primary", width = 4,
+                            downloadBttn(outputId = "download_table",
+                                         style = "jelly",
+                                         color = "primary")
+                            )
+                        )
+                    )
+            )
         )
-    )
 )
+
 
 # Define server logic required to draw a heatmap
 server <- function(input, output) {
     # Filter the data set (dat) with the input parameters given by the used and
     # store it into a variable
     
+    # store the initial data that will be reactively change based on the strains picked and the category selected
     filtered_cat <- reactive({
         dat %>%
             filter(strain %in% input$my_choices) %>%
@@ -69,43 +147,105 @@ server <- function(input, output) {
     })
     
     filtered <- reactive({
-        print(input$my_choices)
-        print(input$my_category)
-        print(input$subcategory)
-        
-        if(input$subcategory == TRUE){
+        # conditions when subcategory = TRUE and subsystem = FALSE
+        if(input$subcategory == TRUE & input$subsystem == FALSE){
             return(
                 filtered_cat() %>%
                     filter(Subcategory %in% input$my_subcategory)
+            )}
+        
+        # conditions when subcategory = FASLE and subsystem = TRUE
+        if(input$subcategory == FALSE & input$subsystem == TRUE){
+            return(
+                filtered_cat() %>%
+                    filter(Subsystem %in% input$my_subsystem)
+            )}
+
+        # conditions when subcategory = TRUE and subsystem = TRUE
+        if(input$subcategory == TRUE & input$subsystem == TRUE){
+            return(
+                filtered_cat() %>%
+                    filter(Subcategory %in% input$my_subcategory) %>%
+                    filter(Subsystem %in% input$my_subsystem)
             )}
         filtered_cat()
     })
     
     
-    output$sub <- renderUI({
+    output$subcat <- renderUI({
         conditionalPanel(condition = "input.subcategory == true",
-                         checkboxGroupInput("my_subcategory", "Select Gene Subcategory", 
-                                            choices = unique(filtered_cat()$Subcategory), selected = filtered_cat()$Subcategory))
+                         pickerInput("my_subcategory", "Select Gene Subcategories:", 
+                                     choices = unique(filtered_cat()$Subcategory), 
+                                     selected = filtered_cat()$Subcategory,
+                                     options = list(`actions-box` = TRUE),
+                                     multiple = TRUE)
+                         )
+        })
+    
+    output$subsys <- renderUI({
+        conditionalPanel(condition = "input.subsystem == true",
+                         pickerInput("my_subsystem", "Select Gene Subsystems:", 
+                                     choices = filtered_cat() %>% filter(Subcategory %in% input$my_subcategory) %>% select(Subsystem) %>% unique() %>% pull, 
+                                     selected = filtered_cat() %>% filter(Subcategory %in% input$my_subcategory) %>% select(Subsystem) %>% unique() %>% pull,
+                                     options = list(`actions-box` = TRUE),
+                                     multiple = TRUE)
+                         )
+        })
+    
+    # Create actual plot and save it into a reactive variable
+    p <- reactive({
+        filtered() %>%
+            ggplot(aes(x = strain, y = Subsystem, fill = value, text = text)) +
+            geom_tile(color = "black") + # geom_tile is used to make heatmaps
+            scale_fill_gradient(low = input$low, high = input$high) +  # Selects the minimum and maximum color for the cells
+            theme(axis.text.x = element_text(angle = 90)) # rotate x labels by 90 degrees
+    })
+    
+    # render plot into plotly -> to make it more interactive!
+    output$my_heatmap <- renderPlotly({
+        ggplotly(p(), tooltip = "text") %>%
+            style(xgap = 1, ygap = 1)
+        
     })
     
     
-    # Creates heatmap by using ggplot
-    output$my_heatmap <- renderPlot({
+    # downloads heatmap ggplot into a '.png'
+    output$download_plot <- downloadHandler(
+        filename = function() {
+            paste('heatmap-', Sys.Date(), '.png', sep='')
+        },
+        content = function(file) {
+            ggsave(filename = file, plot = p(), device = "png")
+        }
+    )
+    
+    
+    
+    # create reactive variable for table, botht to render it and to download it
+    t <- reactive({
         filtered() %>%
-            ggplot(aes(x = strain, y = Subsystem, fill = value)) +
-            geom_tile(color = "black") + # geom_tile is used to make heatmaps
-            scale_fill_gradient(low = "gray98", high = "black") +  # Selects the minimum and maximum color for the cells
-            theme(axis.text.x = element_text(angle = 90)) # rotate x labels by 90 degrees 
-        
+            mutate(value = as.integer(value)) %>%
+            select(-text) %>% # need to take out the text for the interactive heatmap - it messed up the 'pivot_wider'
+            pivot_wider(names_from = strain, values_from = value) %>%
+            select(-Category, -Subcategory) # This column is redundant
     })
     
     # output table with value for each cell below the heatmap. since we had to change
     # the dat table to be in tidy format, we are reverting it to the untidy, but more readable format.
     output$my_table <- renderTable(
-        filtered() %>%
-            pivot_wider(names_from = strain, values_from = value) %>%
-            select(-Category, -Subcategory) # This column is redundant
+        t()
     )
+    
+    # download table
+    output$download_table <- downloadHandler(
+        filename = function() {
+            paste('table-', Sys.Date(), '.csv', sep='')
+        },
+        content = function(file) {
+            write_csv(t(), file = file)
+        }
+    )
+    
 }
 
 # Run the application 
