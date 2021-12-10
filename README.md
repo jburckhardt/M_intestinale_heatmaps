@@ -5,7 +5,7 @@
 Old version of the APP:
 http://jburckhardt.shinyapps.io/M_intestinale_heatmaps
 
-New version of the APP (Assignment B4):
+**New** version of the APP (Assignment B4):
 https://jburckhardt.shinyapps.io/M_intestinale_heatmapsV2/
 
 **Choice of assignment:** 
