@@ -1,0 +1,849 @@
+Category	Subcategory	Subsystem	Role	Features
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin biosynthesis	Dethiobiotin synthetase (EC 6.3.3.3)	fig|1796646.60.peg.1896
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin biosynthesis	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)	fig|1796646.60.peg.525, fig|1796646.60.peg.2242, fig|1796646.60.peg.2895
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin biosynthesis	Biotin synthase (EC 2.8.1.6)	fig|1796646.60.peg.3428
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin biosynthesis	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)	fig|1796646.60.peg.3281
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin biosynthesis	ATPase component BioM of energizing module of biotin ECF transporter	fig|1796646.60.peg.837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin biosynthesis	8-amino-7-oxononanoate synthase (EC 2.3.1.47)	fig|1796646.60.peg.1025, fig|1796646.60.peg.3282
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin biosynthesis Experimental	Dethiobiotin synthetase (EC 6.3.3.3)	fig|1796646.60.peg.1896
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin biosynthesis Experimental	Biotin synthase (EC 2.8.1.6)	fig|1796646.60.peg.3428
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin biosynthesis Experimental	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)	fig|1796646.60.peg.3281
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Biotin	Biotin biosynthesis Experimental	8-amino-7-oxononanoate synthase (EC 2.3.1.47)	fig|1796646.60.peg.1025, fig|1796646.60.peg.3282
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Cofactors, Vitamins, Prosthetic Groups, Pigments - no subcategory	Thiamin biosynthesis	Sulfur carrier protein adenylyltransferase ThiF	fig|1796646.60.peg.3649
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Cofactors, Vitamins, Prosthetic Groups, Pigments - no subcategory	Thiamin biosynthesis	Thiamin-regulated outer membrane receptor Omr1	fig|1796646.60.peg.697, fig|1796646.60.peg.2764
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Cofactors, Vitamins, Prosthetic Groups, Pigments - no subcategory	Thiamin biosynthesis	Predicted thiamin transporter PnuT	fig|1796646.60.peg.2765
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Cofactors, Vitamins, Prosthetic Groups, Pigments - no subcategory	Thiamin biosynthesis	Thiamine-monophosphate kinase (EC 2.7.4.16)	fig|1796646.60.peg.722
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Cofactors, Vitamins, Prosthetic Groups, Pigments - no subcategory	Thiamin biosynthesis	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)	fig|1796646.60.peg.700
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Cofactors, Vitamins, Prosthetic Groups, Pigments - no subcategory	Thiamin biosynthesis	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	fig|1796646.60.peg.3145
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis	Naphthoate synthase (EC 4.1.3.36)	fig|1796646.60.peg.2563
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis	Menaquinone-specific isochorismate synthase (EC 5.4.4.2)	fig|1796646.60.peg.2275
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)	fig|1796646.60.peg.8
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)	fig|1796646.60.peg.2561
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis	O-succinylbenzoate synthase (EC 4.2.1.113)	fig|1796646.60.peg.2562
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)	fig|1796646.60.peg.2912
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis -- gjo	Naphthoate synthase (EC 4.1.3.36)	fig|1796646.60.peg.2563
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis -- gjo	Menaquinone-specific isochorismate synthase (EC 5.4.4.2)	fig|1796646.60.peg.2275
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis -- gjo	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)	fig|1796646.60.peg.8
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis -- gjo	O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)	fig|1796646.60.peg.2561
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis -- gjo	O-succinylbenzoate synthase (EC 4.2.1.113)	fig|1796646.60.peg.2562
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Quinone cofactors	Menaquinone and Phylloquinone Biosynthesis -- gjo	1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)	fig|1796646.60.peg.2912
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin synthesis	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)	fig|1796646.60.peg.2114
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin synthesis	Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)	fig|1796646.60.peg.2969
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin synthesis	Cobyric acid synthase (EC 6.3.5.10)	fig|1796646.60.peg.646
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin synthesis	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)	fig|1796646.60.peg.2970
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin synthesis	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)	fig|1796646.60.peg.2115
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin synthesis	Alpha-ribazole-5'-phosphate phosphatase (EC 3.1.3.73)	fig|1796646.60.peg.2972
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin synthesis	Cobalamin synthase (EC 2.7.8.26)	fig|1796646.60.peg.2971
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin synthesis	Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3)	fig|1796646.60.peg.2999
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Tetrapyrroles	Cobalamin synthesis	Adenosylcobinamide kinase (EC 2.7.1.156)	fig|1796646.60.peg.2969
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	riboflavin to FAD	FMN adenylyltransferase (EC 2.7.7.2)	fig|1796646.60.peg.935
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	riboflavin to FAD	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)	fig|1796646.60.peg.2907
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	riboflavin to FAD	Riboflavin kinase (EC 2.7.1.26)	fig|1796646.60.peg.935
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	riboflavin to FAD	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)	fig|1796646.60.peg.87
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Flavodoxin	Flavodoxin 1	fig|1796646.60.peg.285
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Riboflavin, FMN and FAD metabolism	FMN adenylyltransferase (EC 2.7.7.2)	fig|1796646.60.peg.935
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Riboflavin, FMN and FAD metabolism	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)	fig|1796646.60.peg.2907
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Riboflavin, FMN and FAD metabolism	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26)	fig|1796646.60.peg.4333
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Riboflavin, FMN and FAD metabolism	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)	fig|1796646.60.peg.942
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Riboflavin, FMN and FAD metabolism	5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)	fig|1796646.60.peg.4333
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Riboflavin, FMN and FAD metabolism	Riboflavin kinase (EC 2.7.1.26)	fig|1796646.60.peg.935
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Riboflavin, FMN and FAD metabolism	GTP cyclohydrolase II (EC 3.5.4.25)	fig|1796646.60.peg.87
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Riboflavin, FMN, FAD	Riboflavin, FMN and FAD metabolism	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)	fig|1796646.60.peg.87
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Pyridoxin (Vitamin B6) Biosynthesis	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	fig|1796646.60.peg.2957, fig|1796646.60.peg.3862
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Pyridoxin (Vitamin B6) Biosynthesis	4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)	fig|1796646.60.peg.2610
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Pyridoxin (Vitamin B6) Biosynthesis	Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)	fig|1796646.60.peg.2711
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Pyridoxin (Vitamin B6) Biosynthesis	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)	fig|1796646.60.peg.4191
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Pyridoxin (Vitamin B6) Biosynthesis	Phosphoserine aminotransferase (EC 2.6.1.52)	fig|1796646.60.peg.2958
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Pyridoxin (Vitamin B6) Biosynthesis	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	fig|1796646.60.peg.3264
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Pyridoxine	Pyridoxin (Vitamin B6) Biosynthesis	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	fig|1796646.60.peg.3145
+Cofactors, Vitamins, Prosthetic Groups, Pigments	NAD and NADP	NAD and NADP cofactor biosynthesis global	Quinolinate synthetase (EC 2.5.1.72)	fig|1796646.60.peg.3836
+Cofactors, Vitamins, Prosthetic Groups, Pigments	NAD and NADP	NAD and NADP cofactor biosynthesis global	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	fig|1796646.60.peg.2946
+Cofactors, Vitamins, Prosthetic Groups, Pigments	NAD and NADP	NAD and NADP cofactor biosynthesis global	NAD kinase (EC 2.7.1.23)	fig|1796646.60.peg.4188
+Cofactors, Vitamins, Prosthetic Groups, Pigments	NAD and NADP	NAD and NADP cofactor biosynthesis global	ADP-ribose pyrophosphatase (EC 3.6.1.13)	fig|1796646.60.peg.618
+Cofactors, Vitamins, Prosthetic Groups, Pigments	NAD and NADP	NAD and NADP cofactor biosynthesis global	Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)	fig|1796646.60.peg.1373
+Cofactors, Vitamins, Prosthetic Groups, Pigments	NAD and NADP	NAD and NADP cofactor biosynthesis global	NAD synthetase (EC 6.3.1.5)	fig|1796646.60.peg.13
+Cofactors, Vitamins, Prosthetic Groups, Pigments	NAD and NADP	NAD and NADP cofactor biosynthesis global	Glutamine amidotransferase chain of NAD synthetase	fig|1796646.60.peg.13
+Cofactors, Vitamins, Prosthetic Groups, Pigments	NAD and NADP	NAD and NADP cofactor biosynthesis global	L-aspartate oxidase (EC 1.4.3.16)	fig|1796646.60.peg.3706
+Cofactors, Vitamins, Prosthetic Groups, Pigments	NAD and NADP	NAD and NADP cofactor biosynthesis global	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	fig|1796646.60.peg.2152
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	Folylpolyglutamate synthase (EC 6.3.2.17)	fig|1796646.60.peg.2529
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	Dihydropteroate synthase (EC 2.5.1.15)	fig|1796646.60.peg.2929
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	fig|1796646.60.peg.3138
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	Dihydrofolate reductase (EC 1.5.1.3)	fig|1796646.60.peg.482, fig|1796646.60.peg.2038
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	Dihydrofolate synthase (EC 6.3.2.12)	fig|1796646.60.peg.2529
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	GTP cyclohydrolase I (EC 3.5.4.16) type 1	fig|1796646.60.peg.3375
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	Thymidylate synthase (EC 2.1.1.45)	fig|1796646.60.peg.2020, fig|1796646.60.peg.3537
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)	fig|1796646.60.peg.1770
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	Folate Biosynthesis	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)	fig|1796646.60.peg.1551
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	fig|1796646.60.peg.3138
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	Dihydrofolate reductase (EC 1.5.1.3)	fig|1796646.60.peg.482, fig|1796646.60.peg.2038
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	Thiamine-monophosphate kinase (EC 2.7.4.16)	fig|1796646.60.peg.722
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	Serine hydroxymethyltransferase (EC 2.1.2.1)	fig|1796646.60.peg.1897
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)	fig|1796646.60.peg.810
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)	fig|1796646.60.peg.813, fig|1796646.60.peg.959
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)	fig|1796646.60.peg.812
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)	fig|1796646.60.peg.3882
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	Glutamate formiminotransferase (EC 2.1.2.5)	fig|1796646.60.peg.3882
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)	fig|1796646.60.peg.700
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	fig|1796646.60.peg.2861
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)	fig|1796646.60.peg.1038
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Folate and pterines	5-FCL-like protein	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	fig|1796646.60.peg.1837
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	Coenzyme A Biosynthesis cluster	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)	fig|1796646.60.peg.1631
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	Coenzyme A Biosynthesis cluster	Pantoate--beta-alanine ligase (EC 6.3.2.1)	fig|1796646.60.peg.2812
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	Coenzyme A Biosynthesis cluster	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)	fig|1796646.60.peg.2584
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	Coenzyme A Biosynthesis cluster	Aspartate 1-decarboxylase (EC 4.1.1.11)	fig|1796646.60.peg.2813
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	Coenzyme A Biosynthesis	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)	fig|1796646.60.peg.1631
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	Coenzyme A Biosynthesis	Dephospho-CoA kinase (EC 2.7.1.24)	fig|1796646.60.peg.3160
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	Coenzyme A Biosynthesis	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)	fig|1796646.60.peg.2584
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	Coenzyme A Biosynthesis	Aspartate 1-decarboxylase (EC 4.1.1.11)	fig|1796646.60.peg.2813
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	Coenzyme A Biosynthesis	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	fig|1796646.60.peg.3410
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	Coenzyme A Biosynthesis	Pantoate--beta-alanine ligase (EC 6.3.2.1)	fig|1796646.60.peg.2812
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	Coenzyme A Biosynthesis	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36)	fig|1796646.60.peg.3167
+Cofactors, Vitamins, Prosthetic Groups, Pigments	Coenzyme A	Coenzyme A Biosynthesis	Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)	fig|1796646.60.peg.3167
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	dTDP-rhamnose synthesis	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)	fig|1796646.60.peg.792, fig|1796646.60.peg.1089, fig|1796646.60.peg.1476
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	dTDP-rhamnose synthesis	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	fig|1796646.60.peg.542, fig|1796646.60.peg.790, fig|1796646.60.peg.1090, fig|1796646.60.peg.1478
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	dTDP-rhamnose synthesis	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)	fig|1796646.60.peg.791, fig|1796646.60.peg.1088, fig|1796646.60.peg.1472
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	dTDP-rhamnose synthesis	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	fig|1796646.60.peg.789, fig|1796646.60.peg.1087, fig|1796646.60.peg.1471
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Rhamnose containing glycans	UDP-glucose 4-epimerase (EC 5.1.3.2)	fig|1796646.60.peg.2815
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Rhamnose containing glycans	putative polysialic acid transport protein	fig|1796646.60.peg.3333
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Rhamnose containing glycans	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)	fig|1796646.60.peg.791, fig|1796646.60.peg.1088, fig|1796646.60.peg.1472
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Rhamnose containing glycans	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	fig|1796646.60.peg.789, fig|1796646.60.peg.1087, fig|1796646.60.peg.1471
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Rhamnose containing glycans	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)	fig|1796646.60.peg.792, fig|1796646.60.peg.1089, fig|1796646.60.peg.1476
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Rhamnose containing glycans	putative glycosyltransferase - possibly involved in cell wall localization and side chain formation of rhamnose-glucose polysaccharide	fig|1796646.60.peg.1848
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Rhamnose containing glycans	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	fig|1796646.60.peg.542, fig|1796646.60.peg.790, fig|1796646.60.peg.1090, fig|1796646.60.peg.1478
+Cell Wall and Capsule	Capsular and extracellular polysacchrides	Rhamnose containing glycans	Alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase (EC 2.4.1.-)	fig|1796646.60.peg.1470
+Cell Wall and Capsule	Cell Wall and Capsule - no subcategory	Murein Hydrolases	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)	fig|1796646.60.peg.240, fig|1796646.60.peg.3527, fig|1796646.60.peg.3983
+Cell Wall and Capsule	Cell Wall and Capsule - no subcategory	Murein Hydrolases	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	fig|1796646.60.peg.109
+Cell Wall and Capsule	Cell Wall and Capsule - no subcategory	Murein Hydrolases	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)	fig|1796646.60.peg.2682
+Cell Wall and Capsule	Cell Wall and Capsule - no subcategory	Recycling of Peptidoglycan Amino Acids	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)	fig|1796646.60.peg.240, fig|1796646.60.peg.3527, fig|1796646.60.peg.3983
+Cell Wall and Capsule	Cell Wall and Capsule - no subcategory	Recycling of Peptidoglycan Amino Acids	AmpG permease	fig|1796646.60.peg.1850
+Cell Wall and Capsule	Cell Wall and Capsule - no subcategory	Recycling of Peptidoglycan Amino Acids	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)	fig|1796646.60.peg.2682
+Cell Wall and Capsule	Gram-Positive cell wall components	Teichuronic acid biosynthesis	Putative N-acetylgalactosaminyl-diphosphoundecaprenol glucuronosyltransferase	fig|1796646.60.peg.1084, fig|1796646.60.peg.1877, fig|1796646.60.peg.4203
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Copper homeostasis	Copper-translocating P-type ATPase (EC 3.6.3.4)	fig|1796646.60.peg.690
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Copper homeostasis	Multidrug resistance transporter, Bcr/CflA family	fig|1796646.60.peg.377, fig|1796646.60.peg.392, fig|1796646.60.peg.1000
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Cobalt-zinc-cadmium resistance	Heavy metal RND efflux outer membrane protein, CzcC family	fig|1796646.60.peg.320
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Cobalt-zinc-cadmium resistance	Cobalt-zinc-cadmium resistance protein	fig|1796646.60.peg.649
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Cobalt-zinc-cadmium resistance	Cobalt-zinc-cadmium resistance protein CzcD	fig|1796646.60.peg.1449
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Cobalt-zinc-cadmium resistance	Cobalt-zinc-cadmium resistance protein CzcA	fig|1796646.60.peg.4483
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Cobalt-zinc-cadmium resistance	Probable Co/Zn/Cd efflux system membrane fusion protein	fig|1796646.60.peg.4452
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Cobalt-zinc-cadmium resistance	Transcriptional regulator, MerR family	fig|1796646.60.peg.2759
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Cobalt-zinc-cadmium resistance	Cation efflux system protein CusA	fig|1796646.60.peg.4483
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Resistance to fluoroquinolones	DNA gyrase subunit B (EC 5.99.1.3)	fig|1796646.60.peg.3330
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Resistance to fluoroquinolones	DNA gyrase subunit A (EC 5.99.1.3)	fig|1796646.60.peg.1801
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Resistance to fluoroquinolones	Topoisomerase IV subunit B (EC 5.99.1.-)	fig|1796646.60.peg.3409
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Resistance to fluoroquinolones	Topoisomerase IV subunit A (EC 5.99.1.-)	fig|1796646.60.peg.46
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Copper homeostasis: copper tolerance	Cytoplasmic copper homeostasis protein CutC	fig|1796646.60.peg.1041
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Beta-lactamase	Beta-lactamase (EC 3.5.2.6)	fig|1796646.60.peg.4456
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Multidrug Resistance Efflux Pumps	RND efflux system, outer membrane lipoprotein CmeC	fig|1796646.60.peg.4395
+Virulence, Disease and Defense	Resistance to antibiotics and toxic compounds	Multidrug Resistance Efflux Pumps	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps	fig|1796646.60.peg.356, fig|1796646.60.peg.1158, fig|1796646.60.peg.1641
+Virulence, Disease and Defense	Invasion and intracellular resistance	Mycobacterium virulence operon involved in protein synthesis (SSU ribosomal proteins)	SSU ribosomal protein S7p (S5e)	fig|1796646.60.peg.4273
+Virulence, Disease and Defense	Invasion and intracellular resistance	Mycobacterium virulence operon involved in protein synthesis (SSU ribosomal proteins)	Translation elongation factor G	fig|1796646.60.peg.4272
+Virulence, Disease and Defense	Invasion and intracellular resistance	Mycobacterium virulence operon involved in protein synthesis (SSU ribosomal proteins)	Translation elongation factor Tu	fig|1796646.60.peg.2229
+Virulence, Disease and Defense	Invasion and intracellular resistance	Mycobacterium virulence operon involved in protein synthesis (SSU ribosomal proteins)	SSU ribosomal protein S12p (S23e)	fig|1796646.60.peg.4274
+Virulence, Disease and Defense	Invasion and intracellular resistance	Mycobacterium virulence operon involved in DNA transcription	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	fig|1796646.60.peg.2237
+Virulence, Disease and Defense	Invasion and intracellular resistance	Mycobacterium virulence operon involved in DNA transcription	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	fig|1796646.60.peg.2236
+Virulence, Disease and Defense	Invasion and intracellular resistance	Mycobacterium virulence operon possibly involved in quinolinate biosynthesis	Quinolinate synthetase (EC 2.5.1.72)	fig|1796646.60.peg.3836
+Virulence, Disease and Defense	Invasion and intracellular resistance	Mycobacterium virulence operon possibly involved in quinolinate biosynthesis	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	fig|1796646.60.peg.2946
+Virulence, Disease and Defense	Invasion and intracellular resistance	Mycobacterium virulence operon possibly involved in quinolinate biosynthesis	L-aspartate oxidase (EC 1.4.3.16)	fig|1796646.60.peg.3706
+Virulence, Disease and Defense	Invasion and intracellular resistance	Mycobacterium virulence operon involved in protein synthesis (LSU ribosomal proteins)	LSU ribosomal protein L35p	fig|1796646.60.peg.2725
+Virulence, Disease and Defense	Invasion and intracellular resistance	Mycobacterium virulence operon involved in protein synthesis (LSU ribosomal proteins)	Translation initiation factor 3	fig|1796646.60.peg.2724
+Virulence, Disease and Defense	Invasion and intracellular resistance	Mycobacterium virulence operon involved in protein synthesis (LSU ribosomal proteins)	LSU ribosomal protein L20p	fig|1796646.60.peg.2726
+Potassium metabolism	Potassium metabolism - no subcategory	Potassium homeostasis	POTASSIUM/PROTON ANTIPORTER ROSB	fig|1796646.60.peg.111
+Potassium metabolism	Potassium metabolism - no subcategory	Potassium homeostasis	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)	fig|1796646.60.peg.947
+Potassium metabolism	Potassium metabolism - no subcategory	Potassium homeostasis	Large-conductance mechanosensitive channel	fig|1796646.60.peg.3265
+Potassium metabolism	Potassium metabolism - no subcategory	Potassium homeostasis	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)	fig|1796646.60.peg.637, fig|1796646.60.peg.3342, fig|1796646.60.peg.3343
+Potassium metabolism	Potassium metabolism - no subcategory	Potassium homeostasis	Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	fig|1796646.60.peg.2638
+Potassium metabolism	Potassium metabolism - no subcategory	Potassium homeostasis	Potassium voltage-gated channel subfamily KQT	fig|1796646.60.peg.2322
+Miscellaneous	Plant-Prokaryote DOE project	Iron-sulfur cluster assembly	PaaD-like protein (DUF59) involved in Fe-S cluster assembly	fig|1796646.60.peg.1892
+Miscellaneous	Plant-Prokaryote DOE project	Iron-sulfur cluster assembly	Cysteine desulfurase (EC 2.8.1.7)	fig|1796646.60.peg.591
+Miscellaneous	Plant-Prokaryote DOE project	Iron-sulfur cluster assembly	Iron-sulfur cluster assembly protein SufB	fig|1796646.60.peg.916
+Miscellaneous	Plant-Prokaryote DOE project	Iron-sulfur cluster assembly	Ferritin-like protein 2	fig|1796646.60.peg.4052
+Miscellaneous	Plant-Prokaryote DOE project	Iron-sulfur cluster assembly	Iron-sulfur cluster assembly protein SufD	fig|1796646.60.peg.67
+Miscellaneous	Plant-Prokaryote DOE project	Iron-sulfur cluster assembly	Iron-sulfur cluster assembly ATPase protein SufC	fig|1796646.60.peg.68
+Miscellaneous	Miscellaneous - no subcategory	Phosphoglycerate mutase protein family	Alpha-ribazole-5'-phosphate phosphatase (EC 3.1.3.73)	fig|1796646.60.peg.2972
+Miscellaneous	Miscellaneous - no subcategory	Muconate lactonizing enzyme family	O-succinylbenzoate synthase (EC 4.2.1.113)	fig|1796646.60.peg.2562
+Miscellaneous	Miscellaneous - no subcategory	Broadly distributed proteins not in subsystems	YpfJ protein, zinc metalloprotease superfamily	fig|1796646.60.peg.1941
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraB	fig|1796646.60.peg.494
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraN	fig|1796646.60.peg.505, fig|1796646.60.peg.1429, fig|1796646.60.peg.1979, fig|1796646.60.peg.2374
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraG	fig|1796646.60.peg.499, fig|1796646.60.peg.1418, fig|1796646.60.peg.1986, fig|1796646.60.peg.2364
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraA	fig|1796646.60.peg.493, fig|1796646.60.peg.1412, fig|1796646.60.peg.1993
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraM	fig|1796646.60.peg.504, fig|1796646.60.peg.1425, fig|1796646.60.peg.1980, fig|1796646.60.peg.2372
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraJ	fig|1796646.60.peg.501, fig|1796646.60.peg.1422, fig|1796646.60.peg.1984
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraE	fig|1796646.60.peg.497, fig|1796646.60.peg.1416, fig|1796646.60.peg.1988, fig|1796646.60.peg.2361
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Putative conjugative transposon mobilization protein BF0132	fig|1796646.60.peg.490, fig|1796646.60.peg.1408, fig|1796646.60.peg.1997
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Putative mobilization protein BF0133	fig|1796646.60.peg.488, fig|1796646.60.peg.489, fig|1796646.60.peg.1407, fig|1796646.60.peg.1998, fig|1796646.60.peg.2378
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraO	fig|1796646.60.peg.506, fig|1796646.60.peg.1430, fig|1796646.60.peg.1978
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraL	fig|1796646.60.peg.503
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraK	fig|1796646.60.peg.502, fig|1796646.60.peg.1423, fig|1796646.60.peg.1982, fig|1796646.60.peg.2370
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraI	fig|1796646.60.peg.500, fig|1796646.60.peg.1421, fig|1796646.60.peg.1985
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	hypothetical protein clusted with conjugative transposons, BF0131	fig|1796646.60.peg.491
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraQ	fig|1796646.60.peg.508, fig|1796646.60.peg.1433, fig|1796646.60.peg.1976
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraD	fig|1796646.60.peg.495
+Phages, Prophages, Transposable elements, Plasmids	Transposable elements	Conjugative transposon, Bacteroidales	Conjugative transposon protein TraF	fig|1796646.60.peg.498, fig|1796646.60.peg.1417, fig|1796646.60.peg.1987, fig|1796646.60.peg.2362
+Phages, Prophages, Transposable elements, Plasmids	Phages, Prophages	Phage packaging machinery	Phage terminase, large subunit	fig|1796646.60.peg.1321
+Membrane Transport	Protein translocation across cytoplasmic membrane	Twin-arginine translocation system	Twin-arginine translocation protein TatC	fig|1796646.60.peg.3268
+Membrane Transport	Protein translocation across cytoplasmic membrane	Twin-arginine translocation system	Twin-arginine translocation protein TatA	fig|1796646.60.peg.3267
+Membrane Transport	Cation transporters	Transport of Nickel and Cobalt	Predicted cobalt transporter in Bacteroides_Porphyromonas	fig|1796646.60.peg.2169
+Membrane Transport	Cation transporters	Transport of Nickel and Cobalt	Additional substrate-specific component NikN of nickel ECF transporter	fig|1796646.60.peg.2319
+Membrane Transport	Cation transporters	Transport of Nickel and Cobalt	Substrate-specific component NikM of nickel ECF transporter	fig|1796646.60.peg.2319
+Membrane Transport	Cation transporters	Transport of Nickel and Cobalt	ATPase component NikO of energizing module of nickel ECF transporter	fig|1796646.60.peg.2321
+Membrane Transport	Cation transporters	Transport of Nickel and Cobalt	Transmembrane component NikQ of energizing module of nickel ECF transporter	fig|1796646.60.peg.2320
+Membrane Transport	Cation transporters	Copper Transport System	Copper-translocating P-type ATPase (EC 3.6.3.4)	fig|1796646.60.peg.690
+Membrane Transport	Uni- Sym- and Antiporters	NhaA, NhaD and Sodium-dependent phosphate transporters	Na+/H+ antiporter NhaD type	fig|1796646.60.peg.3284
+Membrane Transport	Uni- Sym- and Antiporters	NhaA, NhaD and Sodium-dependent phosphate transporters	Na+/H+ antiporter NhaA type	fig|1796646.60.peg.3185
+Membrane Transport	Uni- Sym- and Antiporters	NhaA, NhaD and Sodium-dependent phosphate transporters	Sodium-dependent phosphate transporter	fig|1796646.60.peg.2039
+Membrane Transport	Membrane Transport - no subcategory	ECF class transporters	Additional substrate-specific component NikN of nickel ECF transporter	fig|1796646.60.peg.2319
+Membrane Transport	Membrane Transport - no subcategory	ECF class transporters	Substrate-specific component NikM of nickel ECF transporter	fig|1796646.60.peg.2319
+Membrane Transport	Membrane Transport - no subcategory	ECF class transporters	ATPase component NikO of energizing module of nickel ECF transporter	fig|1796646.60.peg.2321
+Membrane Transport	Membrane Transport - no subcategory	ECF class transporters	Transmembrane component NikQ of energizing module of nickel ECF transporter	fig|1796646.60.peg.2320
+Membrane Transport	Membrane Transport - no subcategory	ECF class transporters	ATPase component BioM of energizing module of biotin ECF transporter	fig|1796646.60.peg.837
+Membrane Transport	Membrane Transport - no subcategory	Ton and Tol transport systems	Ferric siderophore transport system, periplasmic binding protein TonB	fig|1796646.60.peg.1908
+Membrane Transport	Membrane Transport - no subcategory	Ton and Tol transport systems	TonB-dependent receptor	fig|1796646.60.peg.34, fig|1796646.60.peg.692, fig|1796646.60.peg.1124, fig|1796646.60.peg.1713, fig|1796646.60.peg.1750, fig|1796646.60.peg.1930, fig|1796646.60.peg.2066, fig|1796646.60.peg.2997, fig|1796646.60.peg.3131, fig|1796646.60.peg.3196, fig|1796646.60.peg.3646
+Membrane Transport	Membrane Transport - no subcategory	Ton and Tol transport systems	Outer membrane lipoprotein omp16 precursor	fig|1796646.60.peg.1714, fig|1796646.60.peg.2880
+Membrane Transport	Membrane Transport - no subcategory	Ton and Tol transport systems	MotA/TolQ/ExbB proton channel family protein	fig|1796646.60.peg.1911, fig|1796646.60.peg.4192
+Membrane Transport	Membrane Transport - no subcategory	Ton and Tol transport systems	Biopolymer transport protein ExbD/TolR	fig|1796646.60.peg.1909, fig|1796646.60.peg.1910, fig|1796646.60.peg.4193
+Iron acquisition and metabolism	Iron acquisition and metabolism - no subcategory	Hemin transport system	Ferric siderophore transport system, periplasmic binding protein TonB	fig|1796646.60.peg.1908
+RNA Metabolism	RNA processing and modification	Ribonuclease H	Ribonuclease HII (EC 3.1.26.4)	fig|1796646.60.peg.2099
+RNA Metabolism	RNA processing and modification	Ribonuclease H	Ribonuclease HI-related protein 3	fig|1796646.60.peg.870, fig|1796646.60.peg.2712
+RNA Metabolism	RNA processing and modification	RNA 3'-terminal phosphate cyclase	RNA-2',3'-PO4:RNA-5'-OH ligase	fig|1796646.60.peg.3078
+RNA Metabolism	RNA processing and modification	RNA processing and degradation, bacterial	3'-to-5' exoribonuclease RNase R	fig|1796646.60.peg.2055
+RNA Metabolism	RNA processing and modification	tRNA processing	Ribonuclease Z (EC 3.1.26.11)	fig|1796646.60.peg.36
+RNA Metabolism	RNA processing and modification	tRNA processing	tRNA dimethylallyltransferase (EC 2.5.1.75)	fig|1796646.60.peg.3992, fig|1796646.60.peg.4509
+RNA Metabolism	RNA processing and modification	tRNA processing	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)	fig|1796646.60.peg.4402
+RNA Metabolism	RNA processing and modification	RNA methylation	FIG011178: rRNA methylase	fig|1796646.60.peg.2950
+RNA Metabolism	RNA processing and modification	RNA methylation	tRNA (adenine37-N(6))-methyltransferase TrmN6 (EC 2.1.1.223)	fig|1796646.60.peg.3977
+RNA Metabolism	RNA processing and modification	RNA methylation	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)	fig|1796646.60.peg.3861
+RNA Metabolism	RNA processing and modification	RNA methylation	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)	fig|1796646.60.peg.88
+RNA Metabolism	Transcription	Transcription initiation, bacterial sigma factors	Serine protease precursor MucD/AlgY associated with sigma factor RpoE	fig|1796646.60.peg.819
+RNA Metabolism	Transcription	Transcription initiation, bacterial sigma factors	RNA polymerase sigma-54 factor RpoN	fig|1796646.60.peg.906
+RNA Metabolism	Transcription	Transcription initiation, bacterial sigma factors	RNA polymerase sigma factor RpoD	fig|1796646.60.peg.3112
+RNA Metabolism	Transcription	RNA polymerase bacterial	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)	fig|1796646.60.peg.4243
+RNA Metabolism	Transcription	RNA polymerase bacterial	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	fig|1796646.60.peg.2237
+RNA Metabolism	Transcription	RNA polymerase bacterial	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)	fig|1796646.60.peg.2482
+RNA Metabolism	Transcription	RNA polymerase bacterial	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	fig|1796646.60.peg.2236
+RNA Metabolism	Transcription	Transcription factors bacterial	Transcription termination protein NusB	fig|1796646.60.peg.3163
+RNA Metabolism	Transcription	Transcription factors bacterial	Transcription accessory protein (S1 RNA-binding domain)	fig|1796646.60.peg.1109
+RNA Metabolism	Transcription	Transcription factors bacterial	Transcription elongation factor GreA	fig|1796646.60.peg.2887
+RNA Metabolism	Transcription	Transcription factors bacterial	Transcription termination factor Rho	fig|1796646.60.peg.4403
+RNA Metabolism	Transcription	Transcription factors bacterial	Transcription antitermination protein NusG	fig|1796646.60.peg.2231
+RNA Metabolism	Transcription	Transcription factors bacterial	Transcription-repair coupling factor	fig|1796646.60.peg.3708
+RNA Metabolism	Transcription	Transcription factors bacterial	Transcription termination protein NusA	fig|1796646.60.peg.1772
+RNA Metabolism	RNA Metabolism - no subcategory	Group II intron-associated genes	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)	fig|1796646.60.peg.1428
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	Nucleoside diphosphate kinase (EC 2.7.4.6)	fig|1796646.60.peg.1925
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	Uridine kinase (EC 2.7.1.48) [C1]	fig|1796646.60.peg.2751
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	Thioredoxin reductase (EC 1.8.1.9)	fig|1796646.60.peg.3141
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	Cytidylate kinase (EC 2.7.4.25)	fig|1796646.60.peg.2908
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	Thymidine kinase (EC 2.7.1.21)	fig|1796646.60.peg.3416
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	Purine nucleoside phosphorylase (EC 2.4.2.1)	fig|1796646.60.peg.721, fig|1796646.60.peg.1948
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	5'-nucleotidase (EC 3.1.3.5)	fig|1796646.60.peg.2920
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	Cytidine deaminase (EC 3.5.4.5)	fig|1796646.60.peg.3727
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	Thymidylate synthase (EC 2.1.1.45)	fig|1796646.60.peg.2020, fig|1796646.60.peg.3537
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	Uridine kinase (EC 2.7.1.48)	fig|1796646.60.peg.2691
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	Uracil phosphoribosyltransferase (EC 2.4.2.9)	fig|1796646.60.peg.936
+Nucleosides and Nucleotides	Pyrimidines	pyrimidine conversions	CTP synthase (EC 6.3.4.2)	fig|1796646.60.peg.3953
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)	fig|1796646.60.peg.811
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	IMP cyclohydrolase (EC 3.5.4.10)	fig|1796646.60.peg.812
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Amidophosphoribosyltransferase (EC 2.4.2.14)	fig|1796646.60.peg.3954, fig|1796646.60.peg.4455
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	fig|1796646.60.peg.2277
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Phosphoribosylglycinamide formyltransferase 2 (EC 2.1.2.-)	fig|1796646.60.peg.1525
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)	fig|1796646.60.peg.1607
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)	fig|1796646.60.peg.813, fig|1796646.60.peg.959
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Adenylosuccinate lyase (EC 4.3.2.2)	fig|1796646.60.peg.809
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	fig|1796646.60.peg.814
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)	fig|1796646.60.peg.812
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)	fig|1796646.60.peg.815
+Nucleosides and Nucleotides	Purines	De Novo Purine Biosynthesis	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)	fig|1796646.60.peg.815
+Nucleosides and Nucleotides	Purines	Purine Utilization	Guanine deaminase (EC 3.5.4.3)	fig|1796646.60.peg.3325
+Nucleosides and Nucleotides	Purines	GMP synthase	GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)	fig|1796646.60.peg.806
+Nucleosides and Nucleotides	Purines	GMP synthase	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2)	fig|1796646.60.peg.806
+Nucleosides and Nucleotides	Purines	Purine conversions	Nucleoside diphosphate kinase (EC 2.7.4.6)	fig|1796646.60.peg.1925
+Nucleosides and Nucleotides	Purines	Purine conversions	Adenylate kinase (EC 2.7.4.3)	fig|1796646.60.peg.2871
+Nucleosides and Nucleotides	Purines	Purine conversions	Adenylosuccinate synthetase (EC 6.3.4.4)	fig|1796646.60.peg.808
+Nucleosides and Nucleotides	Purines	Purine conversions	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2)	fig|1796646.60.peg.806
+Nucleosides and Nucleotides	Purines	Purine conversions	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	fig|1796646.60.peg.807
+Nucleosides and Nucleotides	Purines	Purine conversions	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	fig|1796646.60.peg.2872
+Nucleosides and Nucleotides	Purines	Purine conversions	Purine nucleoside phosphorylase (EC 2.4.2.1)	fig|1796646.60.peg.721, fig|1796646.60.peg.1948
+Nucleosides and Nucleotides	Purines	Purine conversions	Adenylosuccinate lyase (EC 4.3.2.2)	fig|1796646.60.peg.809
+Nucleosides and Nucleotides	Purines	Purine conversions	5'-nucleotidase (EC 3.1.3.5)	fig|1796646.60.peg.2920
+Nucleosides and Nucleotides	Purines	Purine conversions	GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)	fig|1796646.60.peg.806
+Nucleosides and Nucleotides	Purines	Purine conversions	Adenine phosphoribosyltransferase (EC 2.4.2.7)	fig|1796646.60.peg.2057
+Nucleosides and Nucleotides	Purines	Purine conversions	Guanine deaminase (EC 3.5.4.3)	fig|1796646.60.peg.3325
+Nucleosides and Nucleotides	Purines	Purine conversions	Guanylate kinase (EC 2.7.4.8)	fig|1796646.60.peg.234, fig|1796646.60.peg.2153
+Nucleosides and Nucleotides	Nucleosides and Nucleotides - no subcategory	Ribonucleotide reduction	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)	fig|1796646.60.peg.2833, fig|1796646.60.peg.3150
+Nucleosides and Nucleotides	Nucleosides and Nucleotides - no subcategory	Ribonucleotide reduction	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)	fig|1796646.60.peg.3149
+Nucleosides and Nucleotides	Nucleosides and Nucleotides - no subcategory	Ribonucleotide reduction	Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)	fig|1796646.60.peg.219, fig|1796646.60.peg.3377
+Nucleosides and Nucleotides	Nucleosides and Nucleotides - no subcategory	Adenosyl nucleosidases	Purine nucleoside phosphorylase (EC 2.4.2.1)	fig|1796646.60.peg.721, fig|1796646.60.peg.1948
+Nucleosides and Nucleotides	Detoxification	Nucleoside triphosphate pyrophosphohydrolase MazG	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)	fig|1796646.60.peg.715
+Nucleosides and Nucleotides	Detoxification	Nudix proteins (nucleoside triphosphate hydrolases)	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	fig|1796646.60.peg.1135
+Nucleosides and Nucleotides	Detoxification	Nudix proteins (nucleoside triphosphate hydrolases)	ADP-ribose pyrophosphatase (EC 3.6.1.13)	fig|1796646.60.peg.618
+Nucleosides and Nucleotides	Detoxification	Housecleaning nucleoside triphosphate pyrophosphatases	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	fig|1796646.60.peg.1135
+Protein Metabolism	Protein folding	GroEL GroES	Heat shock protein GrpE	fig|1796646.60.peg.84
+Protein Metabolism	Protein folding	GroEL GroES	Chaperone protein DnaK	fig|1796646.60.peg.2297
+Protein Metabolism	Protein folding	GroEL GroES	Chaperone protein DnaJ	fig|1796646.60.peg.83
+Protein Metabolism	Protein folding	GroEL GroES	Heat shock protein 60 family co-chaperone GroES	fig|1796646.60.peg.1813
+Protein Metabolism	Protein folding	GroEL GroES	Heat shock protein 60 family chaperone GroEL	fig|1796646.60.peg.1814
+Protein Metabolism	Protein folding	Protein chaperones	Heat shock protein GrpE	fig|1796646.60.peg.84
+Protein Metabolism	Protein folding	Protein chaperones	Chaperone protein DnaK	fig|1796646.60.peg.2297
+Protein Metabolism	Protein folding	Protein chaperones	Chaperone protein DnaJ	fig|1796646.60.peg.83
+Protein Metabolism	Protein folding	Protein chaperones	Chaperone protein HtpG	fig|1796646.60.peg.1844
+Protein Metabolism	Protein folding	Protein chaperones	ClpB protein	fig|1796646.60.peg.2489
+Protein Metabolism	Protein folding	Periplasmic disulfide interchange	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)	fig|1796646.60.peg.2745
+Protein Metabolism	Protein folding	Peptidyl-prolyl cis-trans isomerase	Survival protein SurA precursor (Peptidyl-prolyl cis-trans isomerase SurA) (EC 5.2.1.8)	fig|1796646.60.peg.2145
+Protein Metabolism	Protein folding	Peptidyl-prolyl cis-trans isomerase	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)	fig|1796646.60.peg.947
+Protein Metabolism	Protein folding	Peptidyl-prolyl cis-trans isomerase	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor (EC 5.2.1.8)	fig|1796646.60.peg.637, fig|1796646.60.peg.3342, fig|1796646.60.peg.3343
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Val	Valyl-tRNA synthetase (EC 6.1.1.9)	fig|1796646.60.peg.4487
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Met	Methionyl-tRNA synthetase (EC 6.1.1.10)	fig|1796646.60.peg.4143
+Protein Metabolism	Protein biosynthesis	rRNAs	5S rRNA	fig|1796646.60.rna.29
+Protein Metabolism	Protein biosynthesis	rRNAs	SSU rRNA	fig|1796646.60.rna.20
+Protein Metabolism	Protein biosynthesis	rRNAs	LSU rRNA	fig|1796646.60.rna.18, fig|1796646.60.rna.30
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Ile	Isoleucyl-tRNA synthetase (EC 6.1.1.5)	fig|1796646.60.peg.3999
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Arg	Arginyl-tRNA synthetase (EC 6.1.1.19)	fig|1796646.60.peg.4340
+Protein Metabolism	Protein biosynthesis	Translation initiation factors bacterial	Translation initiation factor SUI1-related protein	fig|1796646.60.peg.4320
+Protein Metabolism	Protein biosynthesis	Translation initiation factors bacterial	Translation initiation factor 1	fig|1796646.60.peg.4248
+Protein Metabolism	Protein biosynthesis	Translation initiation factors bacterial	Methionyl-tRNA formyltransferase (EC 2.1.2.9)	fig|1796646.60.peg.9, fig|1796646.60.peg.1303
+Protein Metabolism	Protein biosynthesis	Translation initiation factors bacterial	Translation initiation factor 3	fig|1796646.60.peg.2724
+Protein Metabolism	Protein biosynthesis	Translation initiation factors bacterial	Translation initiation factor 2	fig|1796646.60.peg.1771
+Protein Metabolism	Protein biosynthesis	Translation initiation factors bacterial	Ribosome-binding factor A	fig|1796646.60.peg.4160
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S11p (S14e)	fig|1796646.60.peg.4245
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S1p	fig|1796646.60.peg.2219
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S6p	fig|1796646.60.peg.3177
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S15p (S13e)	fig|1796646.60.peg.4236
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S14p (S29e)	fig|1796646.60.peg.4257
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S5p (S2e)	fig|1796646.60.peg.4253
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S18p	fig|1796646.60.peg.3176
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S17p (S11e)	fig|1796646.60.peg.4261
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S20p	fig|1796646.60.peg.2690
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S12p (S23e)	fig|1796646.60.peg.4274
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S9p (S16e)	fig|1796646.60.peg.2203
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S8p (S15Ae)	fig|1796646.60.peg.4256
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S4p (S9e)	fig|1796646.60.peg.4244
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S14p (S29e), zinc-independent	fig|1796646.60.peg.4257
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S19p (S15e)	fig|1796646.60.peg.4266
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S10p (S20e)	fig|1796646.60.peg.4271
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S16p	fig|1796646.60.peg.1916
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S3p (S3e)	fig|1796646.60.peg.4264
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S18p, zinc-independent	fig|1796646.60.peg.3176
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S7p (S5e)	fig|1796646.60.peg.4273
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S2p (SAe)	fig|1796646.60.peg.2204
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S21p	fig|1796646.60.peg.4284
+Protein Metabolism	Protein biosynthesis	Ribosome SSU bacterial	SSU ribosomal protein S13p (S18e)	fig|1796646.60.peg.4246
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Gly	Glycyl-tRNA synthetase (EC 6.1.1.14)	fig|1796646.60.peg.4475
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Ala	Alanyl-tRNA synthetase (EC 6.1.1.7)	fig|1796646.60.peg.2757
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Trp	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)	fig|1796646.60.peg.4505
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L18p (L5e)	fig|1796646.60.peg.4254
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L11p (L12e)	fig|1796646.60.peg.2232
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L5p (L11e)	fig|1796646.60.peg.4258
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L23p (L23Ae)	fig|1796646.60.peg.4268
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L14p (L23e)	fig|1796646.60.peg.4260
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L2p (L8e)	fig|1796646.60.peg.4267
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L31p	fig|1796646.60.peg.2171
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L6p (L9e)	fig|1796646.60.peg.4255
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L21p	fig|1796646.60.peg.3419
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L24p (L26e)	fig|1796646.60.peg.4259
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L29p (L35e)	fig|1796646.60.peg.4262
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L30p (L7e)	fig|1796646.60.peg.4252
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L31p, zinc-independent	fig|1796646.60.peg.2171
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L1p (L10Ae)	fig|1796646.60.peg.2233
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L16p (L10e)	fig|1796646.60.peg.4263
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L25p	fig|1796646.60.peg.2721
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L3p (L3e)	fig|1796646.60.peg.4270
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L15p (L27Ae)	fig|1796646.60.peg.4251
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L33p, zinc-independent	fig|1796646.60.peg.2284
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L13p (L13Ae)	fig|1796646.60.peg.2202
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L22p (L17e)	fig|1796646.60.peg.4265
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L34p	fig|1796646.60.peg.2915
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L10p (P0)	fig|1796646.60.peg.2234
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L9p	fig|1796646.60.peg.3175
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L28p	fig|1796646.60.peg.2283
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L19p	fig|1796646.60.peg.2922
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L35p	fig|1796646.60.peg.2725
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L36p	fig|1796646.60.peg.4247
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L20p	fig|1796646.60.peg.2726
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L32p	fig|1796646.60.peg.3812
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L33p	fig|1796646.60.peg.2284
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L17p	fig|1796646.60.peg.4242
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L27p	fig|1796646.60.peg.3418
+Protein Metabolism	Protein biosynthesis	Ribosome LSU bacterial	LSU ribosomal protein L4p (L1e)	fig|1796646.60.peg.4269
+Protein Metabolism	Protein biosynthesis	Programmed frameshift	programmed frameshift-containing	fig|1796646.60.peg.526
+Protein Metabolism	Protein biosynthesis	Programmed frameshift	Peptide chain release factor 2	fig|1796646.60.peg.526
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Cys	Cysteinyl-tRNA synthetase (EC 6.1.1.16)	fig|1796646.60.peg.2901
+Protein Metabolism	Protein biosynthesis	Translation termination factors bacterial	Ribosome recycling factor	fig|1796646.60.peg.3839
+Protein Metabolism	Protein biosynthesis	Translation termination factors bacterial	Peptidyl-tRNA hydrolase (EC 3.1.1.29)	fig|1796646.60.peg.2720
+Protein Metabolism	Protein biosynthesis	Translation termination factors bacterial	Peptide deformylase (EC 3.5.1.88)	fig|1796646.60.peg.2165
+Protein Metabolism	Protein biosynthesis	Translation termination factors bacterial	Peptide chain release factor 3	fig|1796646.60.peg.1864
+Protein Metabolism	Protein biosynthesis	Translation termination factors bacterial	tmRNA-binding protein SmpB	fig|1796646.60.peg.3236
+Protein Metabolism	Protein biosynthesis	Translation termination factors bacterial	Peptide chain release factor 1	fig|1796646.60.peg.1917
+Protein Metabolism	Protein biosynthesis	Translation termination factors bacterial	Methionine aminopeptidase (EC 3.4.11.18)	fig|1796646.60.peg.4249
+Protein Metabolism	Protein biosynthesis	Translation termination factors bacterial	Peptide chain release factor 2	fig|1796646.60.peg.526
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, His	Histidyl-tRNA synthetase (EC 6.1.1.21)	fig|1796646.60.peg.2518
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Asp and Asn	Aspartyl-tRNA synthetase (EC 6.1.1.12)	fig|1796646.60.peg.51
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Asp and Asn	Asparaginyl-tRNA synthetase (EC 6.1.1.22)	fig|1796646.60.peg.2869
+Protein Metabolism	Protein biosynthesis	Translation elongation factors bacterial	Translation elongation factor G	fig|1796646.60.peg.4272
+Protein Metabolism	Protein biosynthesis	Translation elongation factors bacterial	Translation elongation factor LepA	fig|1796646.60.peg.3188
+Protein Metabolism	Protein biosynthesis	Translation elongation factors bacterial	Translation elongation factor Tu	fig|1796646.60.peg.2229
+Protein Metabolism	Protein biosynthesis	Translation elongation factors bacterial	Translation elongation factor Ts	fig|1796646.60.peg.2205
+Protein Metabolism	Protein biosynthesis	Translation elongation factors bacterial	Translation elongation factor P	fig|1796646.60.peg.2916
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Phe-GAA	fig|1796646.60.rna.7
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Leu-CAG	fig|1796646.60.rna.22
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Pro-GGG	fig|1796646.60.rna.48
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Arg-ACG	fig|1796646.60.rna.28
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Trp-CCA	fig|1796646.60.rna.27
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Leu-CAA	fig|1796646.60.rna.8
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Gly-GCC	fig|1796646.60.rna.14
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Ser-CGA	fig|1796646.60.rna.6
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Leu-GAG	fig|1796646.60.rna.35
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Arg-CCG	fig|1796646.60.rna.45, fig|1796646.60.rna.50
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Ser-GGA	fig|1796646.60.rna.2
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Ala-GGC	fig|1796646.60.rna.33
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Pro-CGG	fig|1796646.60.rna.31
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Gly-CCC	fig|1796646.60.rna.10
+Protein Metabolism	Protein biosynthesis	tRNAs	tRNA-Cys-GCA	fig|1796646.60.rna.17
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Lys	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)	fig|1796646.60.peg.3856
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Thr	Threonyl-tRNA synthetase (EC 6.1.1.3)	fig|1796646.60.peg.2723
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Pro	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type	fig|1796646.60.peg.3989
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Pro	Cys-tRNA(Pro) deacylase YbaK	fig|1796646.60.peg.4404
+Protein Metabolism	Protein biosynthesis	Translation elongation factor G family	Translation elongation factor G	fig|1796646.60.peg.4272
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Glu and Gln	Glutamyl-tRNA synthetase (EC 6.1.1.17)	fig|1796646.60.peg.2882
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Glu and Gln	Glutaminyl-tRNA synthetase (EC 6.1.1.18)	fig|1796646.60.peg.1862
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Ser	Seryl-tRNA synthetase (EC 6.1.1.11)	fig|1796646.60.peg.1718
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Tyr	Tyrosyl-tRNA synthetase (EC 6.1.1.1)	fig|1796646.60.peg.4139
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Leu	Leucyl-tRNA synthetase (EC 6.1.1.4)	fig|1796646.60.peg.1632
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Phe	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)	fig|1796646.60.peg.2239
+Protein Metabolism	Protein biosynthesis	tRNA aminoacylation, Phe	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)	fig|1796646.60.peg.3313
+Protein Metabolism	Protein processing and modification	Signal peptidase	Signal peptidase I (EC 3.4.21.89)	fig|1796646.60.peg.1512, fig|1796646.60.peg.3364, fig|1796646.60.peg.3587
+Protein Metabolism	Protein processing and modification	Signal peptidase	Lipoprotein signal peptidase (EC 3.4.23.36)	fig|1796646.60.peg.4000
+Protein Metabolism	Protein processing and modification	G3E family of P-loop GTPases (metallocenter biosynthesis)	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (EC 5.2.1.8)	fig|1796646.60.peg.947
+Protein Metabolism	Protein processing and modification	G3E family of P-loop GTPases (metallocenter biosynthesis)	Urease accessory protein UreF	fig|1796646.60.peg.2314
+Protein Metabolism	Protein processing and modification	G3E family of P-loop GTPases (metallocenter biosynthesis)	Urease gamma subunit (EC 3.5.1.5)	fig|1796646.60.peg.2310
+Protein Metabolism	Protein processing and modification	G3E family of P-loop GTPases (metallocenter biosynthesis)	Urease accessory protein UreE	fig|1796646.60.peg.2313
+Protein Metabolism	Protein processing and modification	G3E family of P-loop GTPases (metallocenter biosynthesis)	Urease alpha subunit (EC 3.5.1.5)	fig|1796646.60.peg.2312
+Protein Metabolism	Protein processing and modification	G3E family of P-loop GTPases (metallocenter biosynthesis)	Urease accessory protein UreD	fig|1796646.60.peg.2316
+Protein Metabolism	Protein processing and modification	G3E family of P-loop GTPases (metallocenter biosynthesis)	Urease beta subunit (EC 3.5.1.5)	fig|1796646.60.peg.2311
+Protein Metabolism	Protein processing and modification	G3E family of P-loop GTPases (metallocenter biosynthesis)	putative periplasmic protein kinase ArgK and related GTPases of G3E family	fig|1796646.60.peg.524
+Protein Metabolism	Protein processing and modification	G3E family of P-loop GTPases (metallocenter biosynthesis)	Urease accessory protein UreG	fig|1796646.60.peg.2315
+Protein Metabolism	Protein processing and modification	N-linked Glycosylation in Bacteria	UDP-glucose 4-epimerase (EC 5.1.3.2)	fig|1796646.60.peg.2815
+Protein Metabolism	Protein processing and modification	N-linked Glycosylation in Bacteria	Lipid carrier : UDP-N-acetylgalactosaminyltransferase (EC 2.4.1.-)	fig|1796646.60.peg.540
+Protein Metabolism	Protein processing and modification	N-linked Glycosylation in Bacteria	4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid carrier) aminotransferase	fig|1796646.60.peg.4077
+Protein Metabolism	Protein processing and modification	N-linked Glycosylation in Bacteria	Alpha-1,3-N-acetylgalactosamine transferase PglA (EC 2.4.1.-)	fig|1796646.60.peg.540
+Protein Metabolism	Protein degradation	Aminopeptidases (EC 3.4.11.-)	Xaa-Pro aminopeptidase (EC 3.4.11.9)	fig|1796646.60.peg.1065, fig|1796646.60.peg.2207, fig|1796646.60.peg.4278
+Protein Metabolism	Protein degradation	Aminopeptidases (EC 3.4.11.-)	Aminopeptidase Y (Arg, Lys, Leu preference) (EC 3.4.11.15)	fig|1796646.60.peg.4140
+Protein Metabolism	Protein degradation	Protein degradation	Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)	fig|1796646.60.peg.3408
+Protein Metabolism	Protein degradation	Protein degradation	Dipeptidyl carboxypeptidase Dcp (EC 3.4.15.5)	fig|1796646.60.peg.3134, fig|1796646.60.peg.4334
+Protein Metabolism	Protein degradation	Protein degradation	Aminopeptidase C (EC 3.4.22.40)	fig|1796646.60.peg.1514, fig|1796646.60.peg.3860
+Protein Metabolism	Protein degradation	Metallocarboxypeptidases (EC 3.4.17.-)	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	fig|1796646.60.peg.109
+Protein Metabolism	Protein degradation	Metallocarboxypeptidases (EC 3.4.17.-)	Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)	fig|1796646.60.peg.2682
+Protein Metabolism	Protein degradation	Serine endopeptidase (EC 3.4.21.-)	Prolyl endopeptidase (EC 3.4.21.26)	fig|1796646.60.peg.594
+Protein Metabolism	Protein degradation	Proteolysis in bacteria, ATP-dependent	DNA repair protein RadA	fig|1796646.60.peg.2951
+Protein Metabolism	Protein degradation	Proteolysis in bacteria, ATP-dependent	ATP-dependent Clp protease ATP-binding subunit ClpX	fig|1796646.60.peg.2147
+Protein Metabolism	Protein degradation	Proteolysis in bacteria, ATP-dependent	ATP-dependent Clp protease ATP-binding subunit ClpA	fig|1796646.60.peg.1800, fig|1796646.60.peg.3406
+Protein Metabolism	Protein degradation	Proteolysis in bacteria, ATP-dependent	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	fig|1796646.60.peg.2148
+Protein Metabolism	Protein degradation	Proteolysis in bacteria, ATP-dependent	ClpB protein	fig|1796646.60.peg.2489
+Protein Metabolism	Protein degradation	Proteolysis in bacteria, ATP-dependent	ATP-dependent protease La (EC 3.4.21.53) Type I	fig|1796646.60.peg.3976
+Protein Metabolism	Protein degradation	Proteolysis in bacteria, ATP-dependent	ATP-dependent Clp protease adaptor protein ClpS	fig|1796646.60.peg.3405
+Cell Division and Cell Cycle	Checkpoint control	Bacterial checkpoint-control-related cluster	Diadenylate cyclase spyDAC	fig|1796646.60.peg.2928
+Cell Division and Cell Cycle	Checkpoint control	Bacterial checkpoint-control-related cluster	Phosphoglucosamine mutase (EC 5.4.2.10)	fig|1796646.60.peg.718
+Cell Division and Cell Cycle	Checkpoint control	Bacterial checkpoint-control-related cluster	Bacterial checkpoint controller DisA with nucleotide-binding domain	fig|1796646.60.peg.2928
+Regulation and Cell signaling	Regulation and Cell signaling - no subcategory	Stringent Response, (p)ppGpp metabolism	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II	fig|1796646.60.peg.944, fig|1796646.60.peg.1555
+Regulation and Cell signaling	Regulation and Cell signaling - no subcategory	Stringent Response, (p)ppGpp metabolism	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)	fig|1796646.60.peg.944, fig|1796646.60.peg.1555
+Regulation and Cell signaling	Regulation and Cell signaling - no subcategory	Stringent Response, (p)ppGpp metabolism	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	fig|1796646.60.peg.4437
+Regulation and Cell signaling	Programmed Cell Death and Toxin-antitoxin Systems	Murein hydrolase regulation and cell death	LrgA-associated membrane protein LrgB	fig|1796646.60.peg.1680
+Regulation and Cell signaling	Programmed Cell Death and Toxin-antitoxin Systems	Murein hydrolase regulation and cell death	Antiholin-like protein LrgA	fig|1796646.60.peg.1679
+Regulation and Cell signaling	Programmed Cell Death and Toxin-antitoxin Systems	Murein hydrolase regulation and cell death	Cytidine deaminase (EC 3.5.4.5)	fig|1796646.60.peg.3727
+Secondary Metabolism	Plant Alkaloids	Alkaloid biosynthesis from L-lysine	Oxalyl-CoA decarboxylase (EC 4.1.1.8)	fig|1796646.60.peg.3421
+DNA Metabolism	DNA repair	DNA repair, bacterial	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)	fig|1796646.60.peg.545
+DNA Metabolism	DNA repair	DNA repair, bacterial	DNA repair protein RadA	fig|1796646.60.peg.2951
+DNA Metabolism	DNA repair	DNA repair, bacterial	Exonuclease SbcD	fig|1796646.60.peg.3221
+DNA Metabolism	DNA repair	DNA repair, bacterial	DNA repair protein RecN	fig|1796646.60.peg.3165
+DNA Metabolism	DNA repair	DNA repair, bacterial	Recombinational DNA repair protein RecT (prophage associated)	fig|1796646.60.peg.3740
+DNA Metabolism	DNA repair	DNA repair, bacterial	DNA-cytosine methyltransferase (EC 2.1.1.37)	fig|1796646.60.peg.456, fig|1796646.60.peg.1364, fig|1796646.60.peg.1735, fig|1796646.60.peg.1736, fig|1796646.60.peg.1983, fig|1796646.60.peg.2302, fig|1796646.60.peg.2303, fig|1796646.60.peg.3748, fig|1796646.60.peg.4433, fig|1796646.60.peg.4500
+DNA Metabolism	DNA repair	DNA repair, bacterial	Very-short-patch mismatch repair endonuclease (G-T specific)	fig|1796646.60.peg.2304, fig|1796646.60.peg.4502
+DNA Metabolism	DNA repair	DNA repair, bacterial	Exonuclease SbcC	fig|1796646.60.peg.3220
+DNA Metabolism	DNA repair	DNA repair, bacterial	Single-stranded DNA-binding protein	fig|1796646.60.peg.1831
+DNA Metabolism	DNA repair	DNA repair, bacterial	Endonuclease IV (EC 3.1.21.2)	fig|1796646.60.peg.2949
+DNA Metabolism	DNA repair	DNA repair, bacterial	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)	fig|1796646.60.peg.638
+DNA Metabolism	DNA repair	DNA repair, bacterial	RecA protein	fig|1796646.60.peg.3723
+DNA Metabolism	DNA repair	DNA repair, bacterial RecBCD pathway	RecD-like DNA helicase YrrC	fig|1796646.60.peg.2984
+DNA Metabolism	DNA repair	DNA repair, bacterial RecBCD pathway	RecD-like DNA helicase Atu2026	fig|1796646.60.peg.4466
+DNA Metabolism	DNA repair	DNA repair, bacterial MutL-MutS system	Recombination inhibitory protein MutS2	fig|1796646.60.peg.734
+DNA Metabolism	DNA repair	DNA repair, bacterial MutL-MutS system	DNA mismatch repair protein MutS	fig|1796646.60.peg.2695
+DNA Metabolism	DNA repair	DNA repair, bacterial MutL-MutS system	DNA mismatch repair protein MutL	fig|1796646.60.peg.2141
+DNA Metabolism	DNA repair	DNA repair, UvrABC system	Excinuclease ABC subunit A paralog in greater Bacteroides group	fig|1796646.60.peg.3240
+DNA Metabolism	DNA repair	DNA repair, UvrABC system	Excinuclease ABC subunit C	fig|1796646.60.peg.2056
+DNA Metabolism	DNA repair	DNA repair, UvrABC system	Excinuclease ABC subunit A	fig|1796646.60.peg.3244
+DNA Metabolism	DNA repair	DNA repair, UvrABC system	Excinuclease ABC subunit B	fig|1796646.60.peg.3371
+DNA Metabolism	DNA repair	2-phosphoglycolate salvage	Phosphoglycolate phosphatase (EC 3.1.3.18)	fig|1796646.60.peg.1851
+DNA Metabolism	DNA repair	DNA repair system including RecA, MutS and a hypothetical protein	DNA mismatch repair protein MutS	fig|1796646.60.peg.2695
+DNA Metabolism	DNA repair	DNA repair system including RecA, MutS and a hypothetical protein	RecA protein	fig|1796646.60.peg.3723
+DNA Metabolism	CRISPs	CRISPRs	CRISPR-associated protein Cas2	fig|1796646.60.peg.2839, fig|1796646.60.peg.2847
+DNA Metabolism	CRISPs	CRISPRs	CRISPR-associated protein Cas1	fig|1796646.60.peg.2846
+DNA Metabolism	CRISPs	CRISPRs	CRISPR-associated helicase Cas3	fig|1796646.60.peg.2843
+DNA Metabolism	DNA Metabolism - no subcategory	Type I Restriction-Modification	Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)	fig|1796646.60.peg.604, fig|1796646.60.peg.1971
+DNA Metabolism	DNA Metabolism - no subcategory	Type I Restriction-Modification	Type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72)	fig|1796646.60.peg.603, fig|1796646.60.peg.1444, fig|1796646.60.peg.1968, fig|1796646.60.peg.3310
+DNA Metabolism	DNA Metabolism - no subcategory	Restriction-Modification System	Type III restriction-modification system methylation subunit (EC 2.1.1.72)	fig|1796646.60.peg.1760
+DNA Metabolism	DNA Metabolism - no subcategory	Restriction-Modification System	Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)	fig|1796646.60.peg.604, fig|1796646.60.peg.1971
+DNA Metabolism	DNA Metabolism - no subcategory	Restriction-Modification System	Type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72)	fig|1796646.60.peg.603, fig|1796646.60.peg.1444, fig|1796646.60.peg.1968, fig|1796646.60.peg.3310
+DNA Metabolism	DNA Metabolism - no subcategory	Restriction-Modification System	Putative DNA-binding protein in cluster with Type I restriction-modification system	fig|1796646.60.peg.263, fig|1796646.60.peg.463, fig|1796646.60.peg.1671
+DNA Metabolism	DNA Metabolism - no subcategory	DNA structural proteins, bacterial	DNA-binding protein HU	fig|1796646.60.peg.1436
+DNA Metabolism	DNA replication	DNA topoisomerases, Type I, ATP-independent	DNA topoisomerase III domain	fig|1796646.60.peg.429
+DNA Metabolism	DNA replication	DNA topoisomerases, Type I, ATP-independent	DNA topoisomerase III (EC 5.99.1.2)	fig|1796646.60.peg.714
+DNA Metabolism	DNA replication	DNA topoisomerases, Type I, ATP-independent	DNA topoisomerase I (EC 5.99.1.2)	fig|1796646.60.peg.3328
+DNA Metabolism	DNA replication	DNA topoisomerases, Type I, ATP-independent	DNA topoisomerase III, Bacteroidales-type (EC 5.99.1.2)	fig|1796646.60.peg.483
+DNA Metabolism	DNA replication	DNA topoisomerases, Type II, ATP-dependent	DNA gyrase subunit B (EC 5.99.1.3)	fig|1796646.60.peg.3330
+DNA Metabolism	DNA replication	DNA topoisomerases, Type II, ATP-dependent	DNA gyrase subunit A (EC 5.99.1.3)	fig|1796646.60.peg.1801
+DNA Metabolism	DNA replication	DNA topoisomerases, Type II, ATP-dependent	Topoisomerase IV subunit B (EC 5.99.1.-)	fig|1796646.60.peg.3409
+DNA Metabolism	DNA replication	DNA topoisomerases, Type II, ATP-dependent	Topoisomerase IV subunit A (EC 5.99.1.-)	fig|1796646.60.peg.46
+DNA Metabolism	DNA uptake, competence	DNA processing cluster	Recombination protein RecR	fig|1796646.60.peg.2501
+DNA Metabolism	DNA uptake, competence	DNA processing cluster	DNA topoisomerase III (EC 5.99.1.2)	fig|1796646.60.peg.714
+DNA Metabolism	DNA uptake, competence	DNA processing cluster	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)	fig|1796646.60.peg.1775
+Fatty Acids, Lipids, and Isoprenoids	Triacylglycerols	Triacylglycerol metabolism	Lysophospholipase L2 (EC 3.1.1.5)	fig|1796646.60.peg.323, fig|1796646.60.peg.4155
+Fatty Acids, Lipids, and Isoprenoids	Triacylglycerols	Triacylglycerol metabolism	Lysophospholipase (EC 3.1.1.5)	fig|1796646.60.peg.4426
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Isoprenoinds for Quinones	Decaprenyl diphosphate synthase (EC 2.5.1.91)	fig|1796646.60.peg.2098
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Isoprenoinds for Quinones	Undecaprenyl diphosphate synthase (EC 2.5.1.31)	fig|1796646.60.peg.2098, fig|1796646.60.peg.4330
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Isoprenoinds for Quinones	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)	fig|1796646.60.peg.115
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Nonmevalonate Branch of Isoprenoid Biosynthesis	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	fig|1796646.60.peg.2781
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Nonmevalonate Branch of Isoprenoid Biosynthesis	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	fig|1796646.60.peg.85
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Nonmevalonate Branch of Isoprenoid Biosynthesis	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	fig|1796646.60.peg.75
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Nonmevalonate Branch of Isoprenoid Biosynthesis	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)	fig|1796646.60.peg.3289
+Fatty Acids, Lipids, and Isoprenoids	Isoprenoids	Nonmevalonate Branch of Isoprenoid Biosynthesis	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	fig|1796646.60.peg.3145
+Nitrogen Metabolism	Nitrogen Metabolism - no subcategory	Ammonia assimilation	Glutamine synthetase type I (EC 6.3.1.2)	fig|1796646.60.peg.3959
+Nitrogen Metabolism	Nitrogen Metabolism - no subcategory	Ammonia assimilation	Glutamine synthetase type III, GlnN (EC 6.3.1.2)	fig|1796646.60.peg.3972
+Nitrogen Metabolism	Nitrogen Metabolism - no subcategory	Ammonia assimilation	Ammonium transporter	fig|1796646.60.peg.2661
+Nitrogen Metabolism	Nitrogen Metabolism - no subcategory	Ammonia assimilation	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)	fig|1796646.60.peg.1486
+Dormancy and Sporulation	Dormancy and Sporulation - no subcategory	Sporulation-associated proteins with broader functions	Peptidyl-tRNA hydrolase (EC 3.1.1.29)	fig|1796646.60.peg.2720
+Respiration	Electron accepting reactions	Terminal cytochrome d ubiquinol oxidases	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)	fig|1796646.60.peg.2525
+Respiration	Electron accepting reactions	Terminal cytochrome d ubiquinol oxidases	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)	fig|1796646.60.peg.2526
+Respiration	Electron accepting reactions	Terminal cytochrome oxidases	Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)	fig|1796646.60.peg.2525
+Respiration	Electron accepting reactions	Terminal cytochrome oxidases	Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)	fig|1796646.60.peg.2526
+Respiration	Electron donating reactions	Na(+)-translocating NADH-quinone oxidoreductase and rnf-like group of electron transport complexes	Electron transport complex protein RnfE	fig|1796646.60.peg.4416
+Respiration	Electron donating reactions	Na(+)-translocating NADH-quinone oxidoreductase and rnf-like group of electron transport complexes	Electron transport complex protein RnfA	fig|1796646.60.peg.4417
+Respiration	Electron donating reactions	Na(+)-translocating NADH-quinone oxidoreductase and rnf-like group of electron transport complexes	Electron transport complex protein RnfG	fig|1796646.60.peg.4415
+Respiration	Electron donating reactions	Na(+)-translocating NADH-quinone oxidoreductase and rnf-like group of electron transport complexes	Electron transport complex protein RnfD	fig|1796646.60.peg.4414
+Respiration	Electron donating reactions	Na(+)-translocating NADH-quinone oxidoreductase and rnf-like group of electron transport complexes	Electron transport complex protein RnfB	fig|1796646.60.peg.4412
+Respiration	Electron donating reactions	Na(+)-translocating NADH-quinone oxidoreductase and rnf-like group of electron transport complexes	Electron transport complex protein RnfC	fig|1796646.60.peg.4413
+Respiration	Electron donating reactions	Respiratory Complex I	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)	fig|1796646.60.peg.18
+Respiration	Electron donating reactions	Respiratory Complex I	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)	fig|1796646.60.peg.17
+Respiration	Electron donating reactions	Respiratory Complex I	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)	fig|1796646.60.peg.19
+Respiration	Electron donating reactions	Respiratory Complex I	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)	fig|1796646.60.peg.15
+Respiration	Electron donating reactions	Respiratory Complex I	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)	fig|1796646.60.peg.29
+Respiration	Electron donating reactions	Respiratory Complex I	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)	fig|1796646.60.peg.31
+Respiration	Electron donating reactions	Respiratory Complex I	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)	fig|1796646.60.peg.20
+Respiration	Electron donating reactions	Respiratory Complex I	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)	fig|1796646.60.peg.16
+Respiration	Electron donating reactions	Respiratory Complex I	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)	fig|1796646.60.peg.30
+Respiration	Electron donating reactions	Respiratory Complex I	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)	fig|1796646.60.peg.32
+Respiration	Electron donating reactions	Respiratory Complex I	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)	fig|1796646.60.peg.30
+Respiration	Electron donating reactions	Respiratory dehydrogenases 1	Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)	fig|1796646.60.peg.3116
+Respiration	Electron donating reactions	Respiratory dehydrogenases 1	NADH dehydrogenase (EC 1.6.99.3)	fig|1796646.60.peg.1450, fig|1796646.60.peg.2820
+Respiration	Electron donating reactions	Respiratory dehydrogenases 1	Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)	fig|1796646.60.peg.3115
+Respiration	Electron donating reactions	Respiratory dehydrogenases 1	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)	fig|1796646.60.peg.3117
+Respiration	Electron donating reactions	NADH ubiquinone oxidoreductase	NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)	fig|1796646.60.peg.18
+Respiration	Electron donating reactions	NADH ubiquinone oxidoreductase	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)	fig|1796646.60.peg.17
+Respiration	Electron donating reactions	NADH ubiquinone oxidoreductase	NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)	fig|1796646.60.peg.19
+Respiration	Electron donating reactions	NADH ubiquinone oxidoreductase	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)	fig|1796646.60.peg.15
+Respiration	Electron donating reactions	NADH ubiquinone oxidoreductase	NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)	fig|1796646.60.peg.29
+Respiration	Electron donating reactions	NADH ubiquinone oxidoreductase	NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)	fig|1796646.60.peg.31
+Respiration	Electron donating reactions	NADH ubiquinone oxidoreductase	NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)	fig|1796646.60.peg.20
+Respiration	Electron donating reactions	NADH ubiquinone oxidoreductase	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)	fig|1796646.60.peg.16
+Respiration	Electron donating reactions	NADH ubiquinone oxidoreductase	NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)	fig|1796646.60.peg.30
+Respiration	Electron donating reactions	NADH ubiquinone oxidoreductase	NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)	fig|1796646.60.peg.32
+Respiration	Electron donating reactions	NADH ubiquinone oxidoreductase	NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)	fig|1796646.60.peg.30
+Respiration	Respiration - no subcategory	Biogenesis of c-type cytochromes	Cytochrome c-type biogenesis protein ResA	fig|1796646.60.peg.4407
+Respiration	Respiration - no subcategory	Biogenesis of c-type cytochromes	Putative cytochrome C-type biogenesis protein	fig|1796646.60.peg.3261
+Respiration	Respiration - no subcategory	Biogenesis of c-type cytochromes	Cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase (EC 1.8.1.8)	fig|1796646.60.peg.2745
+Respiration	Respiration - no subcategory	Soluble cytochromes and functionally related electron carriers	Ferredoxin	fig|1796646.60.peg.1134, fig|1796646.60.peg.2755
+Respiration	Sodium Ion-Coupled Energetics	Na+ translocating decarboxylases and related biotin-dependent enzymes	Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3)	fig|1796646.60.peg.1015
+Respiration	Sodium Ion-Coupled Energetics	Na+ translocating decarboxylases and related biotin-dependent enzymes	Methylmalonyl-CoA decarboxylase, beta chain (EC 4.1.1.41)	fig|1796646.60.peg.2293
+Respiration	Sodium Ion-Coupled Energetics	Na+ translocating decarboxylases and related biotin-dependent enzymes	Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)	fig|1796646.60.peg.2290
+Respiration	Sodium Ion-Coupled Energetics	Na+ translocating decarboxylases and related biotin-dependent enzymes	Membrane protein associated with methylmalonyl-CoA decarboxylase	fig|1796646.60.peg.2291
+Stress Response	Osmotic stress	Osmoregulation	Glycerol uptake facilitator protein	fig|1796646.60.peg.3113
+Stress Response	Oxidative stress	Protection from Reactive Oxygen Species	Superoxide dismutase [Fe] (EC 1.15.1.1)	fig|1796646.60.peg.3892
+Stress Response	Oxidative stress	Glutathione: Non-redox reactions	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)	fig|1796646.60.peg.3963
+Stress Response	Oxidative stress	Rubrerythrin	Rubrerythrin	fig|1796646.60.peg.3396
+Stress Response	Oxidative stress	Rubrerythrin	Rubredoxin	fig|1796646.60.peg.3872
+Stress Response	Stress Response - no subcategory	SigmaB stress responce regulation	Serine phosphatase RsbU, regulator of sigma subunit	fig|1796646.60.peg.1155
+Stress Response	Stress Response - no subcategory	Carbon Starvation	Carbon starvation protein A	fig|1796646.60.peg.3179
+Stress Response	Periplasmic Stress	Periplasmic Stress Response	Survival protein SurA precursor (Peptidyl-prolyl cis-trans isomerase SurA) (EC 5.2.1.8)	fig|1796646.60.peg.2145
+Stress Response	Periplasmic Stress	Periplasmic Stress Response	Outer membrane protein H precursor	fig|1796646.60.peg.4328
+Stress Response	Periplasmic Stress	Periplasmic Stress Response	HtrA protease/chaperone protein	fig|1796646.60.peg.3111
+Metabolism of Aromatic Compounds	Peripheral pathways for catabolism of aromatic compounds	Quinate degradation	3-dehydroquinate dehydratase II (EC 4.2.1.10)	fig|1796646.60.peg.4158
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	L-asparaginase I, cytoplasmic (EC 3.5.1.1)	fig|1796646.60.peg.90
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Aspartate--ammonia ligase (EC 6.3.1.1)	fig|1796646.60.peg.4023
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Aspartate aminotransferase (EC 2.6.1.1)	fig|1796646.60.peg.932, fig|1796646.60.peg.2858, fig|1796646.60.peg.3724
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Glutamate racemase (EC 5.1.1.3)	fig|1796646.60.peg.4325
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Glutaminase (EC 3.5.1.2)	fig|1796646.60.peg.4032
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Glutamate synthase [NADPH] large chain (EC 1.4.1.13)	fig|1796646.60.peg.1486
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Glutamine synthetase type I (EC 6.3.1.2)	fig|1796646.60.peg.3959
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Glutamine synthetase type III, GlnN (EC 6.3.1.2)	fig|1796646.60.peg.3972
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	fig|1796646.60.peg.1709, fig|1796646.60.peg.2800
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine, Glutamate, Aspartate and Asparagine Biosynthesis	Aspartate ammonia-lyase (EC 4.3.1.1)	fig|1796646.60.peg.850
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamate dehydrogenases	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	fig|1796646.60.peg.1709, fig|1796646.60.peg.2800
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine synthetases	Glutamine synthetase type I (EC 6.3.1.2)	fig|1796646.60.peg.3959
+Amino Acids and Derivatives	Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	Glutamine synthetases	Glutamine synthetase type III, GlnN (EC 6.3.1.2)	fig|1796646.60.peg.3972
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Degradation	N-formylglutamate deformylase (EC 3.5.1.68)	fig|1796646.60.peg.2606
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Degradation	Imidazolonepropionase (EC 3.5.2.7)	fig|1796646.60.peg.3881
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Degradation	Urocanate hydratase (EC 4.2.1.49)	fig|1796646.60.peg.3883
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Degradation	Histidine ammonia-lyase (EC 4.3.1.3)	fig|1796646.60.peg.3880
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Degradation	Glutamate formiminotransferase (EC 2.1.2.5)	fig|1796646.60.peg.3882
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)	fig|1796646.60.peg.4349
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)	fig|1796646.60.peg.4346
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Imidazole glycerol phosphate synthase amidotransferase subunit (EC 2.4.2.-)	fig|1796646.60.peg.4350
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Histidinol-phosphate aminotransferase (EC 2.6.1.9)	fig|1796646.60.peg.4352
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	fig|1796646.60.peg.4351
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	fig|1796646.60.peg.4346
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Histidinol dehydrogenase (EC 1.1.1.23)	fig|1796646.60.peg.4353
+Amino Acids and Derivatives	Histidine Metabolism	Histidine Biosynthesis	Histidinol-phosphatase (EC 3.1.3.15)	fig|1796646.60.peg.4351
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urease subunits	Urease accessory protein UreD	fig|1796646.60.peg.2316
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urease subunits	Urease accessory protein UreF	fig|1796646.60.peg.2314
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urease subunits	Urease beta subunit (EC 3.5.1.5)	fig|1796646.60.peg.2311
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urease subunits	Urease accessory protein UreG	fig|1796646.60.peg.2315
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urease subunits	Urease gamma subunit (EC 3.5.1.5)	fig|1796646.60.peg.2310
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urease subunits	Urease accessory protein UreE	fig|1796646.60.peg.2313
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urease subunits	Urease alpha subunit (EC 3.5.1.5)	fig|1796646.60.peg.2312
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	N-acetylornithine carbamoyltransferase (EC 2.1.3.9)	fig|1796646.60.peg.561
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Acetylornithine deacetylase (EC 3.5.1.16)	fig|1796646.60.peg.563
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Acetylglutamate kinase (EC 2.7.2.8)	fig|1796646.60.peg.562
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Arginine pathway regulatory protein ArgR, repressor of arg regulon	fig|1796646.60.peg.1829
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Argininosuccinate lyase (EC 4.3.2.1)	fig|1796646.60.peg.564
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Argininosuccinate synthase (EC 6.3.4.5)	fig|1796646.60.peg.558
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	fig|1796646.60.peg.559, fig|1796646.60.peg.1830
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis extended	Acetylornithine aminotransferase (EC 2.6.1.11)	fig|1796646.60.peg.560
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis -- gjo	N-acetylornithine carbamoyltransferase (EC 2.1.3.9)	fig|1796646.60.peg.561
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis -- gjo	Acetylornithine deacetylase (EC 3.5.1.16)	fig|1796646.60.peg.563
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis -- gjo	Acetylglutamate kinase (EC 2.7.2.8)	fig|1796646.60.peg.562
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis -- gjo	Arginine pathway regulatory protein ArgR, repressor of arg regulon	fig|1796646.60.peg.1829
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis -- gjo	Argininosuccinate lyase (EC 4.3.2.1)	fig|1796646.60.peg.564
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis -- gjo	Argininosuccinate synthase (EC 6.3.4.5)	fig|1796646.60.peg.558
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis -- gjo	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	fig|1796646.60.peg.559, fig|1796646.60.peg.1830
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Arginine Biosynthesis -- gjo	Acetylornithine aminotransferase (EC 2.6.1.11)	fig|1796646.60.peg.560
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urea decomposition	Urease accessory protein UreF	fig|1796646.60.peg.2314
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urea decomposition	Urease gamma subunit (EC 3.5.1.5)	fig|1796646.60.peg.2310
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urea decomposition	Urease accessory protein UreE	fig|1796646.60.peg.2313
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urea decomposition	Eukaryotic-type low-affinity urea transporter	fig|1796646.60.peg.2317
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urea decomposition	Urease alpha subunit (EC 3.5.1.5)	fig|1796646.60.peg.2312
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urea decomposition	Urease accessory protein UreD	fig|1796646.60.peg.2316
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urea decomposition	Urease beta subunit (EC 3.5.1.5)	fig|1796646.60.peg.2311
+Amino Acids and Derivatives	Arginine; urea cycle, polyamines	Urea decomposition	Urease accessory protein UreG	fig|1796646.60.peg.2315
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)	fig|1796646.60.peg.3286
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	S-ribosylhomocysteine lyase (EC 4.4.1.21)	fig|1796646.60.peg.999
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	S-adenosylmethionine synthetase (EC 2.5.1.6)	fig|1796646.60.peg.2613
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Degradation	Methionine transporter MetT	fig|1796646.60.peg.2956
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Homoserine dehydrogenase (EC 1.1.1.3)	fig|1796646.60.peg.2503, fig|1796646.60.peg.3615
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	S-adenosylmethionine synthetase (EC 2.5.1.6)	fig|1796646.60.peg.2613
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	fig|1796646.60.peg.4150, fig|1796646.60.peg.4419
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Serine acetyltransferase (EC 2.3.1.30)	fig|1796646.60.peg.1095
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)	fig|1796646.60.peg.2860
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Cysteine synthase (EC 2.5.1.47)	fig|1796646.60.peg.2663
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Homoserine O-acetyltransferase (EC 2.3.1.31)	fig|1796646.60.peg.1098
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Cystathionine beta-lyase (EC 4.4.1.8)	fig|1796646.60.peg.625, fig|1796646.60.peg.2862
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49)	fig|1796646.60.peg.4150, fig|1796646.60.peg.4419
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	S-ribosylhomocysteine lyase (EC 4.4.1.21)	fig|1796646.60.peg.999
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	fig|1796646.60.peg.2861
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Methionine Biosynthesis	Methionine transporter MetT	fig|1796646.60.peg.2956
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Homoserine dehydrogenase (EC 1.1.1.3)	fig|1796646.60.peg.2503, fig|1796646.60.peg.3615
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	fig|1796646.60.peg.4468
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Aspartate aminotransferase (EC 2.6.1.1)	fig|1796646.60.peg.932, fig|1796646.60.peg.2858, fig|1796646.60.peg.3724
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Threonine synthase (EC 4.2.3.1)	fig|1796646.60.peg.3617
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Aspartokinase (EC 2.7.2.4)	fig|1796646.60.peg.593, fig|1796646.60.peg.2503, fig|1796646.60.peg.3615
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine and Homoserine Biosynthesis	Predicted functional analog of homoserine kinase (EC 2.7.1.-)	fig|1796646.60.peg.3616
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine degradation	Threonine dehydrogenase and related Zn-dependent dehydrogenases	fig|1796646.60.peg.2113
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Threonine degradation	L-threonine 3-dehydrogenase (EC 1.1.1.103)	fig|1796646.60.peg.4449
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway, GJO scratch	Diaminopimelate decarboxylase (EC 4.1.1.20)	fig|1796646.60.peg.592
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway, GJO scratch	L,L-diaminopimelate aminotransferase (EC 2.6.1.83)	fig|1796646.60.peg.3971
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway, GJO scratch	Diaminopimelate epimerase (EC 5.1.1.7)	fig|1796646.60.peg.3970
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway, GJO scratch	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	fig|1796646.60.peg.4468
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway, GJO scratch	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)	fig|1796646.60.peg.3365
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway, GJO scratch	Aspartokinase (EC 2.7.2.4)	fig|1796646.60.peg.593, fig|1796646.60.peg.2503, fig|1796646.60.peg.3615
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway, GJO scratch	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)	fig|1796646.60.peg.3996
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway, GJO scratch	Meso-diaminopimelate D-dehydrogenase (EC 1.4.1.16)	fig|1796646.60.peg.2168
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Cysteine synthase (EC 2.5.1.47)	fig|1796646.60.peg.2663
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Sulfate permease	fig|1796646.60.peg.3975
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Cysteine Biosynthesis	Serine acetyltransferase (EC 2.3.1.30)	fig|1796646.60.peg.1095
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	Diaminopimelate decarboxylase (EC 4.1.1.20)	fig|1796646.60.peg.592
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	L,L-diaminopimelate aminotransferase (EC 2.6.1.83)	fig|1796646.60.peg.3971
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	Diaminopimelate epimerase (EC 5.1.1.7)	fig|1796646.60.peg.3970
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	fig|1796646.60.peg.4468
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)	fig|1796646.60.peg.3365
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	Aspartokinase (EC 2.7.2.4)	fig|1796646.60.peg.593, fig|1796646.60.peg.2503, fig|1796646.60.peg.3615
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)	fig|1796646.60.peg.3996
+Amino Acids and Derivatives	Lysine, threonine, methionine, and cysteine	Lysine Biosynthesis DAP Pathway	Meso-diaminopimelate D-dehydrogenase (EC 1.4.1.16)	fig|1796646.60.peg.2168
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)	fig|1796646.60.peg.848
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	2-isopropylmalate synthase (EC 2.3.3.13)	fig|1796646.60.peg.4147
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	Branched-chain amino acid aminotransferase (EC 2.6.1.42)	fig|1796646.60.peg.2216
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	3-isopropylmalate dehydrogenase (EC 1.1.1.85)	fig|1796646.60.peg.846
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	(R)-citramalate synthase (EC 2.3.1.182)	fig|1796646.60.peg.847
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)	fig|1796646.60.peg.849
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	Acetolactate synthase large subunit (EC 2.2.1.6)	fig|1796646.60.peg.4020
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	Dihydroxy-acid dehydratase (EC 4.2.1.9)	fig|1796646.60.peg.4021
+Amino Acids and Derivatives	Branched-chain amino acids	Branched-Chain Amino Acid Biosynthesis	Acetolactate synthase small subunit (EC 2.2.1.6)	fig|1796646.60.peg.4019
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)	fig|1796646.60.peg.848
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)	fig|1796646.60.peg.849
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	2-isopropylmalate synthase (EC 2.3.3.13)	fig|1796646.60.peg.4147
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	Branched-chain amino acid aminotransferase (EC 2.6.1.42)	fig|1796646.60.peg.2216
+Amino Acids and Derivatives	Branched-chain amino acids	Leucine Biosynthesis	3-isopropylmalate dehydrogenase (EC 1.1.1.85)	fig|1796646.60.peg.846
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	Shikimate kinase I (EC 2.7.1.71)	fig|1796646.60.peg.2094
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)	fig|1796646.60.peg.1820
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	3-dehydroquinate dehydratase II (EC 4.2.1.10)	fig|1796646.60.peg.4158
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)	fig|1796646.60.peg.2857
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	3-dehydroquinate synthase (EC 4.2.3.4)	fig|1796646.60.peg.3336
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Common Pathway For Synthesis of Aromatic Compounds (DAHP synthase to chorismate)	Chorismate synthase (EC 4.2.3.5)	fig|1796646.60.peg.4405
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)	fig|1796646.60.peg.4349
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	fig|1796646.60.peg.1551
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.	Tryptophan synthase alpha chain (EC 4.2.1.20)	fig|1796646.60.peg.1548
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	fig|1796646.60.peg.1550
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.	Tryptophan synthase beta chain (EC 4.2.1.20)	fig|1796646.60.peg.1553
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)	fig|1796646.60.peg.1549
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.	Anthranilate synthase, aminase component (EC 4.1.3.27)	fig|1796646.60.peg.1552
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.	Isochorismate synthase (EC 5.4.4.2)	fig|1796646.60.peg.2275
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Chorismate: Intermediate for synthesis of Tryptophan, PAPA antibiotics, PABA, 3-hydroxyanthranilate and more.	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)	fig|1796646.60.peg.1551
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Phenylalanine and Tyrosine Branches from Chorismate	Chorismate mutase I (EC 5.4.99.5)	fig|1796646.60.peg.2857
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Phenylalanine and Tyrosine Branches from Chorismate	Prephenate dehydratase (EC 4.2.1.51)	fig|1796646.60.peg.2859
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Phenylalanine and Tyrosine Branches from Chorismate	Prephenate and/or arogenate dehydrogenase (unknown specificity) (EC 1.3.1.12)(EC 1.3.1.43)	fig|1796646.60.peg.1625
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Phenylalanine and Tyrosine Branches from Chorismate	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57)	fig|1796646.60.peg.2858
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	fig|1796646.60.peg.1551
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Tryptophan synthase alpha chain (EC 4.2.1.20)	fig|1796646.60.peg.1548
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	fig|1796646.60.peg.1550
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Tryptophan synthase beta chain (EC 4.2.1.20)	fig|1796646.60.peg.1553
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Indole-3-glycerol phosphate synthase (EC 4.1.1.48)	fig|1796646.60.peg.1549
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Para-aminobenzoate synthase, amidotransferase component (EC 2.6.1.85)	fig|1796646.60.peg.1551
+Amino Acids and Derivatives	Aromatic amino acids and derivatives	Tryptophan synthesis	Anthranilate synthase, aminase component (EC 4.1.3.27)	fig|1796646.60.peg.1552
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline Synthesis	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	fig|1796646.60.peg.4104
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline Synthesis	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	fig|1796646.60.peg.4102
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline Synthesis	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	fig|1796646.60.peg.1709, fig|1796646.60.peg.2800
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline Synthesis	RNA-binding C-terminal domain PUA	fig|1796646.60.peg.4103
+Amino Acids and Derivatives	Proline and 4-hydroxyproline	Proline Synthesis	Glutamate 5-kinase (EC 2.7.2.11)	fig|1796646.60.peg.4103
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine Biosynthesis	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)	fig|1796646.60.peg.4448
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine Biosynthesis	Serine hydroxymethyltransferase (EC 2.1.2.1)	fig|1796646.60.peg.1897
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine Biosynthesis	L-threonine 3-dehydrogenase (EC 1.1.1.103)	fig|1796646.60.peg.4449
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alanine biosynthesis	Branched-chain amino acid aminotransferase (EC 2.6.1.42)	fig|1796646.60.peg.2216
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alanine biosynthesis	Cysteine desulfurase (EC 2.8.1.7)	fig|1796646.60.peg.591
+Amino Acids and Derivatives	Alanine, serine, and glycine	Alanine biosynthesis	Alanine racemase (EC 5.1.1.1)	fig|1796646.60.peg.547
+Amino Acids and Derivatives	Alanine, serine, and glycine	Serine Biosynthesis	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	fig|1796646.60.peg.2957, fig|1796646.60.peg.3862
+Amino Acids and Derivatives	Alanine, serine, and glycine	Serine Biosynthesis	Phosphoserine phosphatase (EC 3.1.3.3)	fig|1796646.60.peg.2550, fig|1796646.60.peg.2550
+Amino Acids and Derivatives	Alanine, serine, and glycine	Serine Biosynthesis	Serine hydroxymethyltransferase (EC 2.1.2.1)	fig|1796646.60.peg.1897
+Amino Acids and Derivatives	Alanine, serine, and glycine	Serine Biosynthesis	Phosphoserine aminotransferase (EC 2.6.1.52)	fig|1796646.60.peg.2958
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine cleavage system	Glycine cleavage system H protein	fig|1796646.60.peg.1840
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine cleavage system	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)	fig|1796646.60.peg.1838
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine cleavage system	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)	fig|1796646.60.peg.1839
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine cleavage system	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	fig|1796646.60.peg.1837
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine cleavage system	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)	fig|1796646.60.peg.1841
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	fig|1796646.60.peg.2957, fig|1796646.60.peg.3862
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	L-serine dehydratase, alpha subunit (EC 4.3.1.17)	fig|1796646.60.peg.35
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Phosphoserine phosphatase (EC 3.1.3.3)	fig|1796646.60.peg.2550
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	L-serine dehydratase, beta subunit (EC 4.3.1.17)	fig|1796646.60.peg.35
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)	fig|1796646.60.peg.1838
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)	fig|1796646.60.peg.1839
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Serine hydroxymethyltransferase (EC 2.1.2.1)	fig|1796646.60.peg.1897
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Seryl-tRNA synthetase (EC 6.1.1.11)	fig|1796646.60.peg.1718
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Phosphoserine aminotransferase (EC 2.6.1.52)	fig|1796646.60.peg.2958
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Glycine cleavage system H protein	fig|1796646.60.peg.1840
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)	fig|1796646.60.peg.4448
+Amino Acids and Derivatives	Alanine, serine, and glycine	Glycine and Serine Utilization	Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)	fig|1796646.60.peg.1841
+Sulfur Metabolism	Sulfur Metabolism - no subcategory	Thioredoxin-disulfide reductase	Thiol peroxidase, Tpx-type (EC 1.11.1.15)	fig|1796646.60.peg.2508
+Sulfur Metabolism	Sulfur Metabolism - no subcategory	Thioredoxin-disulfide reductase	Thiol peroxidase, Bcp-type (EC 1.11.1.15)	fig|1796646.60.peg.3187
+Sulfur Metabolism	Sulfur Metabolism - no subcategory	Thioredoxin-disulfide reductase	Thioredoxin reductase (EC 1.8.1.9)	fig|1796646.60.peg.3141
+Phosphorus Metabolism	Phosphorus Metabolism - no subcategory	High affinity phosphate transporter and control of PHO regulon	Phosphate regulon transcriptional regulatory protein PhoB (SphR)	fig|1796646.60.peg.334
+Phosphorus Metabolism	Phosphorus Metabolism - no subcategory	High affinity phosphate transporter and control of PHO regulon	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)	fig|1796646.60.peg.335
+Phosphorus Metabolism	Phosphorus Metabolism - no subcategory	Phosphate metabolism	Phosphate regulon transcriptional regulatory protein PhoB (SphR)	fig|1796646.60.peg.334
+Phosphorus Metabolism	Phosphorus Metabolism - no subcategory	Phosphate metabolism	Pyrophosphate-energized proton pump (EC 3.6.1.1)	fig|1796646.60.peg.1557
+Phosphorus Metabolism	Phosphorus Metabolism - no subcategory	Phosphate metabolism	Probable low-affinity inorganic phosphate transporter	fig|1796646.60.peg.336
+Phosphorus Metabolism	Phosphorus Metabolism - no subcategory	Phosphate metabolism	Alkaline phosphatase (EC 3.1.3.1)	fig|1796646.60.peg.584
+Phosphorus Metabolism	Phosphorus Metabolism - no subcategory	Phosphate metabolism	Alkaline phosphatase like protein	fig|1796646.60.peg.2773
+Phosphorus Metabolism	Phosphorus Metabolism - no subcategory	Phosphate metabolism	Phosphate starvation-inducible protein PhoH, predicted ATPase	fig|1796646.60.peg.915, fig|1796646.60.peg.915
+Phosphorus Metabolism	Phosphorus Metabolism - no subcategory	Phosphate metabolism	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)	fig|1796646.60.peg.335
+Phosphorus Metabolism	Phosphorus Metabolism - no subcategory	Phosphate metabolism	Sodium-dependent phosphate transporter	fig|1796646.60.peg.2039
+Carbohydrates	Central carbohydrate metabolism	Methylglyoxal Metabolism	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)	fig|1796646.60.peg.3963
+Carbohydrates	Central carbohydrate metabolism	Pyruvate:ferredoxin oxidoreductase	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)	fig|1796646.60.peg.3286
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)	fig|1796646.60.peg.1038
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate	Phosphate acetyltransferase (EC 2.3.1.8)	fig|1796646.60.peg.63
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate	Acetate kinase (EC 2.7.2.1)	fig|1796646.60.peg.64
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism II: acetyl-CoA, acetogenesis from pyruvate	NAD-dependent protein deacetylase of SIR2 family	fig|1796646.60.peg.3830
+Carbohydrates	Central carbohydrate metabolism	Pyruvate Alanine Serine Interconversions	L-serine dehydratase, alpha subunit (EC 4.3.1.17)	fig|1796646.60.peg.35
+Carbohydrates	Central carbohydrate metabolism	Pyruvate Alanine Serine Interconversions	Branched-chain amino acid aminotransferase (EC 2.6.1.42)	fig|1796646.60.peg.2216
+Carbohydrates	Central carbohydrate metabolism	Pyruvate Alanine Serine Interconversions	L-serine dehydratase, beta subunit (EC 4.3.1.17)	fig|1796646.60.peg.35
+Carbohydrates	Central carbohydrate metabolism	Pyruvate Alanine Serine Interconversions	Alanine dehydrogenase (EC 1.4.1.1)	fig|1796646.60.peg.2740
+Carbohydrates	Central carbohydrate metabolism	Pyruvate Alanine Serine Interconversions	Alanine racemase (EC 5.1.1.1)	fig|1796646.60.peg.547
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Fructose-1,6-bisphosphatase, Bacillus type (EC 3.1.3.11)	fig|1796646.60.peg.527
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	6-phosphofructokinase (EC 2.7.1.11)	fig|1796646.60.peg.933
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Triosephosphate isomerase (EC 5.3.1.1)	fig|1796646.60.peg.3373
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Pyruvate,phosphate dikinase (EC 2.7.9.1)	fig|1796646.60.peg.2992
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	fig|1796646.60.peg.541
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)	fig|1796646.60.peg.1938
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Glucose-6-phosphate isomerase (EC 5.3.1.9)	fig|1796646.60.peg.3854
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Pyruvate kinase (EC 2.7.1.40)	fig|1796646.60.peg.1481
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Enolase (EC 4.2.1.11)	fig|1796646.60.peg.4465
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	fig|1796646.60.peg.3264
+Carbohydrates	Central carbohydrate metabolism	Glycolysis and Gluconeogenesis	Phosphoglycerate kinase (EC 2.7.2.3)	fig|1796646.60.peg.1912
+Carbohydrates	Central carbohydrate metabolism	Pentose phosphate pathway	Transketolase (EC 2.2.1.1)	fig|1796646.60.peg.1520
+Carbohydrates	Central carbohydrate metabolism	Pentose phosphate pathway	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	fig|1796646.60.peg.2277
+Carbohydrates	Central carbohydrate metabolism	Pentose phosphate pathway	Ribose 5-phosphate isomerase B (EC 5.3.1.6)	fig|1796646.60.peg.2506
+Carbohydrates	Central carbohydrate metabolism	Pentose phosphate pathway	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	fig|1796646.60.peg.2774
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism I: anaplerotic reactions, PEP	Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3)	fig|1796646.60.peg.1015
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism I: anaplerotic reactions, PEP	Pyruvate,phosphate dikinase (EC 2.7.9.1)	fig|1796646.60.peg.2992
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism I: anaplerotic reactions, PEP	Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)	fig|1796646.60.peg.4137
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism I: anaplerotic reactions, PEP	NADP-dependent malic enzyme (EC 1.1.1.40)	fig|1796646.60.peg.3148
+Carbohydrates	Central carbohydrate metabolism	Pyruvate metabolism I: anaplerotic reactions, PEP	Pyruvate kinase (EC 2.7.1.40)	fig|1796646.60.peg.1481
+Carbohydrates	Central carbohydrate metabolism	Glycolate, glyoxylate interconversions	Phosphoglycolate phosphatase (EC 3.1.3.18)	fig|1796646.60.peg.1851
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	fig|1796646.60.peg.3376
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Pullulanase (EC 3.2.1.41)	fig|1796646.60.peg.4237
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Neopullulanase (EC 3.2.1.135)	fig|1796646.60.peg.1787
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Glycogen phosphorylase (EC 2.4.1.1)	fig|1796646.60.peg.3967
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Alpha-glucosidase (EC 3.2.1.20)	fig|1796646.60.peg.1595, fig|1796646.60.peg.2130, fig|1796646.60.peg.3347, fig|1796646.60.peg.4379
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Maltose O-acetyltransferase (EC 2.3.1.79)	fig|1796646.60.peg.384
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Aldose 1-epimerase (EC 5.1.3.3)	fig|1796646.60.peg.2120, fig|1796646.60.peg.4168, fig|1796646.60.peg.4358
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Alpha-amylase (EC 3.2.1.1)	fig|1796646.60.peg.1812, fig|1796646.60.peg.2559
+Carbohydrates	Di- and oligosaccharides	Maltose and Maltodextrin Utilization	Maltodextrin glucosidase (EC 3.2.1.20)	fig|1796646.60.peg.1383, fig|1796646.60.peg.1527, fig|1796646.60.peg.2129
+Carbohydrates	Di- and oligosaccharides	Lactose and Galactose Uptake and Utilization	UDP-glucose 4-epimerase (EC 5.1.3.2)	fig|1796646.60.peg.2815
+Carbohydrates	Di- and oligosaccharides	Lactose and Galactose Uptake and Utilization	Galactokinase (EC 2.7.1.6)	fig|1796646.60.peg.4167
+Carbohydrates	Di- and oligosaccharides	Lactose and Galactose Uptake and Utilization	Aldose 1-epimerase (EC 5.1.3.3)	fig|1796646.60.peg.2120, fig|1796646.60.peg.4168, fig|1796646.60.peg.4358
+Carbohydrates	One-carbon Metabolism	One-carbon metabolism by tetrahydropterines	5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	fig|1796646.60.peg.3138
+Carbohydrates	One-carbon Metabolism	One-carbon metabolism by tetrahydropterines	Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)	fig|1796646.60.peg.3882
+Carbohydrates	One-carbon Metabolism	One-carbon metabolism by tetrahydropterines	Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)	fig|1796646.60.peg.810
+Carbohydrates	One-carbon Metabolism	One-carbon metabolism by tetrahydropterines	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	fig|1796646.60.peg.2861
+Carbohydrates	One-carbon Metabolism	One-carbon metabolism by tetrahydropterines	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)	fig|1796646.60.peg.810
+Carbohydrates	Organic acids	Lactate utilization	Predicted L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF	fig|1796646.60.peg.555
+Carbohydrates	Organic acids	Lactate utilization	L-lactate permease	fig|1796646.60.peg.553
+Carbohydrates	Organic acids	Lactate utilization	Predicted L-lactate dehydrogenase, hypothetical protein subunit SO1518	fig|1796646.60.peg.554
+Carbohydrates	Organic acids	Lactate utilization	Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE	fig|1796646.60.peg.556
+Carbohydrates	Fermentation	Acetolactate synthase subunits	Acetolactate synthase large subunit (EC 2.2.1.6)	fig|1796646.60.peg.4020
+Carbohydrates	Fermentation	Acetolactate synthase subunits	Acetolactate synthase small subunit (EC 2.2.1.6)	fig|1796646.60.peg.4019
+Carbohydrates	Sugar alcohols	Glycerol and Glycerol-3-phosphate Uptake and Utilization	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)	fig|1796646.60.peg.354
+Carbohydrates	Sugar alcohols	Glycerol and Glycerol-3-phosphate Uptake and Utilization	Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)	fig|1796646.60.peg.3116
+Carbohydrates	Sugar alcohols	Glycerol and Glycerol-3-phosphate Uptake and Utilization	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	fig|1796646.60.peg.3855
+Carbohydrates	Sugar alcohols	Glycerol and Glycerol-3-phosphate Uptake and Utilization	Glycerol kinase (EC 2.7.1.30)	fig|1796646.60.peg.3114
+Carbohydrates	Sugar alcohols	Glycerol and Glycerol-3-phosphate Uptake and Utilization	Glycerol uptake facilitator protein	fig|1796646.60.peg.3113
+Carbohydrates	Sugar alcohols	Glycerol and Glycerol-3-phosphate Uptake and Utilization	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)	fig|1796646.60.peg.3117
+Carbohydrates	Polysaccharides	Glycogen metabolism	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	fig|1796646.60.peg.3376
+Carbohydrates	Polysaccharides	Glycogen metabolism	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)	fig|1796646.60.peg.2905
+Carbohydrates	Polysaccharides	Glycogen metabolism	Putative glycogen debranching enzyme, archaeal type, TIGR01561	fig|1796646.60.peg.2557
+Carbohydrates	Polysaccharides	Glycogen metabolism	Glycogen phosphorylase (EC 2.4.1.1)	fig|1796646.60.peg.3967
+Carbohydrates	Monosaccharides	Mannose Metabolism	Alpha-1,2-mannosidase	fig|1796646.60.peg.776, fig|1796646.60.peg.782, fig|1796646.60.peg.854, fig|1796646.60.peg.1493, fig|1796646.60.peg.1598
+Carbohydrates	Monosaccharides	Mannose Metabolism	Phosphomannomutase (EC 5.4.2.8)	fig|1796646.60.peg.718
+Carbohydrates	Monosaccharides	Mannose Metabolism	Mannose-6-phosphate isomerase (EC 5.3.1.8)	fig|1796646.60.peg.50, fig|1796646.60.peg.784
+Carbohydrates	Monosaccharides	Mannose Metabolism	Endo-1,4-beta-mannosidase	fig|1796646.60.peg.1705
+Carbohydrates	Monosaccharides	D-ribose utilization	Ribokinase (EC 2.7.1.15)	fig|1796646.60.peg.4307
+Carbohydrates	Monosaccharides	D-ribose utilization	Ribose 5-phosphate isomerase B (EC 5.3.1.6)	fig|1796646.60.peg.2506
+Carbohydrates	Monosaccharides	Xylose utilization	Xylose isomerase (EC 5.3.1.5)	fig|1796646.60.peg.1402, fig|1796646.60.peg.3503
+Carbohydrates	Monosaccharides	Xylose utilization	Xylanase	fig|1796646.60.peg.3088
+Carbohydrates	Monosaccharides	Xylose utilization	Xylulose kinase (EC 2.7.1.17)	fig|1796646.60.peg.1401, fig|1796646.60.peg.3504
+Carbohydrates	Monosaccharides	Xylose utilization	Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	fig|1796646.60.peg.1116
+Carbohydrates	Monosaccharides	Xylose utilization	Xyloside transporter XynT	fig|1796646.60.peg.3039
+Carbohydrates	Monosaccharides	Xylose utilization	D-xylose proton-symporter XylE	fig|1796646.60.peg.1403, fig|1796646.60.peg.1519
+Carbohydrates	Monosaccharides	Deoxyribose and Deoxynucleoside Catabolism	Purine nucleoside phosphorylase (EC 2.4.2.1)	fig|1796646.60.peg.721, fig|1796646.60.peg.1948
+Carbohydrates	Monosaccharides	Deoxyribose and Deoxynucleoside Catabolism	Ribokinase (EC 2.7.1.15)	fig|1796646.60.peg.4307
+Carbohydrates	Monosaccharides	Deoxyribose and Deoxynucleoside Catabolism	Putative deoxyribonuclease YjjV	fig|1796646.60.peg.3367
+Carbohydrates	Monosaccharides	Deoxyribose and Deoxynucleoside Catabolism	Deoxyribose-phosphate aldolase (EC 4.1.2.4)	fig|1796646.60.peg.2050
+Carbohydrates	Monosaccharides	L-Arabinose utilization	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	fig|1796646.60.peg.4361
+Carbohydrates	Monosaccharides	L-Arabinose utilization	Hypothetical glycoside hydrolase, family 43, similar to arabinosidase	fig|1796646.60.peg.1594, fig|1796646.60.peg.1666, fig|1796646.60.peg.4034
+Carbohydrates	Monosaccharides	L-Arabinose utilization	Ribulokinase (EC 2.7.1.16)	fig|1796646.60.peg.4364
+Carbohydrates	Monosaccharides	L-Arabinose utilization	L-arabinose isomerase (EC 5.3.1.4)	fig|1796646.60.peg.4363
+Carbohydrates	Monosaccharides	L-Arabinose utilization	Arabinan endo-1,5-alpha-L-arabinosidase (EC 3.2.1.99)	fig|1796646.60.peg.1055, fig|1796646.60.peg.1664, fig|1796646.60.peg.2053
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Mannonate dehydratase (EC 4.2.1.8)	fig|1796646.60.peg.1007
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase (EC 1.1.1.127)	fig|1796646.60.peg.1604
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	fig|1796646.60.peg.1116
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase (EC 5.3.1.17)	fig|1796646.60.peg.1606
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Alpha-glucosidase (EC 3.2.1.20)	fig|1796646.60.peg.1595, fig|1796646.60.peg.2130, fig|1796646.60.peg.3347, fig|1796646.60.peg.4379
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Rhamnogalacturonides degradation protein RhiN	fig|1796646.60.peg.4011
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)	fig|1796646.60.peg.1004
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	2-deoxy-D-gluconate 3-dehydrogenase (EC 1.1.1.125)	fig|1796646.60.peg.1604
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Glucuronide transporter UidB	fig|1796646.60.peg.1697
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	D-mannonate oxidoreductase (EC 1.1.1.57)	fig|1796646.60.peg.1008
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Hexuronate transporter	fig|1796646.60.peg.1005
+Carbohydrates	Monosaccharides	D-Galacturonate and D-Glucuronate Utilization	Uronate isomerase (EC 5.3.1.12)	fig|1796646.60.peg.1006

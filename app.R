@@ -5,15 +5,16 @@ library(shinydashboard) # to create a new aesthetic for the app
 library(dashboardthemes) # themes for shinydashboard
 library(shinyWidgets) # diffeerent widgets with cool functionalities
 
-# Assignment B-4: update shinny app. Find comments of the different features in the code below!
+# Load R library with functions
+source("heatmaps_functionsV3.R") # library for heatmaps
 
-# Load in the data from the .csv file, arrange it into a tify format using pivot_longer, and 
-# add a 'text' column that will create the interactive pop-up in plotly when you hover through the heatmap cells
-dat <- read_csv(here::here("S24_7_data.csv")) %>% 
+
+# Load the data and then pivot_longer to make it in a tidy format to plot with ggplot2
+strains_table <- create_gene_array(directory = "S24_7_genome_annotations/", absolute_count = TRUE)
+dat <- create_heatmap(df = strains_table, collapse_by = c("Category", "Subcategory", "Subsystem"), make_heatmap = FALSE) %>%
     pivot_longer(cols = starts_with("M_"), names_to = "strain") %>%
     mutate(text = paste0("Strain: ", strain, "\n", "Row: ", Subsystem, "\n", "Value: ",round(value,0)))
 
-# we use dashboardPage instead of fluid page
 ui <- dashboardPage(
     
     # Adds a titel to the header bar of the app
@@ -25,6 +26,7 @@ ui <- dashboardPage(
         # creating tabs for the app: add name, an identifying tabName, and an Icon!
         sidebarMenu(
             menuItem("Heatmap", tabName = "heatmap", icon = icon("fas fa-chart-bar")),
+            menuItem("Interactive Heatmap", tabName = "int_heatmap", icon = icon("fas fa-chart-bar")),
             menuItem("Table", icon = icon("fas fa-table"), tabName = "table")
             )
         ),
@@ -135,7 +137,44 @@ ui <- dashboardPage(
                         )
             ),
             
-            ############## This is the tab for the table of values #############
+            # Tab item for expanded view of interactive plot
+            tabItem(tabName = "int_heatmap",
+                    h2("Interactive Heatmap"),
+                    
+                    # plot!
+                    box(height = 900, width = 12,
+                        # update width and height of the plot
+                        dropdownButton(
+                            h3("Update Plot Dimentions"),
+                    
+                            sliderInput(inputId = "plot_width",
+                                        label = "Width",
+                                        value = 1000,
+                                        min = 1,
+                                        max = 1800),
+                            
+                            sliderInput(inputId = "plot_height",
+                                        label = "Height",
+                                        value = 600,
+                                        min = 1,
+                                        max = 1000),
+                            
+                            circle = TRUE, status = "danger",
+                            icon = icon("gear"), width = "300px",
+                            
+                            tooltip = tooltipOptions(title = "Click to adjust plot dimentions!")
+                        ),
+                        
+                        # Plot output
+                        plotlyOutput("copy_heatmap")
+                    )
+                
+                
+                
+            ),
+            
+            ###### This is for the table of values ###########
+
             tabItem(tabName = "table",
                     h2("Table of heatmap values"),
                     fluidRow(
@@ -233,6 +272,14 @@ server <- function(input, output) {
     output$my_heatmap <- renderPlotly({
         ggplotly(p(), tooltip = "text") %>%
             style(xgap = 1, ygap = 1) # I have to add this to have some space in-between cells!
+        
+    })
+    
+    # render plot into plotly -> to make it more interactive!
+    output$copy_heatmap <- renderPlotly({
+        ggplotly(p(), tooltip = "text") %>%
+            style(xgap = 1, ygap = 1) %>%
+            layout(autosize = F, height = input$plot_height, width = input$plot_width)
         
     })
     
