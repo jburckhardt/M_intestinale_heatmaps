@@ -5,6 +5,9 @@ library(shinydashboard)
 library(dashboardthemes)
 library(shinyWidgets)
 
+# Load R library with functions
+source("heatmaps_functionsV3.R") # library for heatmaps
+
 # Assignment B-3: Create a shinny app. I selected option B
 # Here are the three features I used:
 # Feature 1: sidebarLayout() -> part of the UI layout
@@ -12,9 +15,12 @@ library(shinyWidgets)
 # feature 3: selectInput() -> functional widget that creates a drop-down menu to select an option
 
 # Load the data and then pivot_longer to make it in a tidy format to plot with ggplot2
-dat <- read_csv(here::here("S24_7_data.csv")) %>% 
+strains_table <- create_gene_array(directory = "S24_7_genome_annotations/", absolute_count = TRUE)
+dat <- create_heatmap(df = strains_table, collapse_by = c("Category", "Subcategory", "Subsystem"), make_heatmap = FALSE) %>%
     pivot_longer(cols = starts_with("M_"), names_to = "strain") %>%
     mutate(text = paste0("Strain: ", strain, "\n", "Row: ", Subsystem, "\n", "Value: ",round(value,0)))
+
+
 
 ui <- dashboardPage(
     dashboardHeader(title = "M. intestinale Strains Heatmaps"),
@@ -23,6 +29,7 @@ ui <- dashboardPage(
         # creating tabs for the app
         sidebarMenu(
             menuItem("Heatmap", tabName = "heatmap", icon = icon("fas fa-chart-bar")),
+            menuItem("Interactive Heatmap", tabName = "int_heatmap", icon = icon("fas fa-chart-bar")),
             menuItem("Table", icon = icon("fas fa-table"), tabName = "table")
             )
         ),
@@ -112,6 +119,42 @@ ui <- dashboardPage(
                                      style = "jelly",
                                      color = "primary")
                         )
+            ),
+            
+            # Tab item for expanded view of interactive plot
+            tabItem(tabName = "int_heatmap",
+                    h2("Interactive Heatmap"),
+                    
+                    # plot!
+                    box(height = 900, width = 12,
+                        # update width and height of the plot
+                        dropdownButton(
+                            h3("Update Plot Dimentions"),
+                    
+                            sliderInput(inputId = "plot_width",
+                                        label = "Width",
+                                        value = 1000,
+                                        min = 1,
+                                        max = 1800),
+                            
+                            sliderInput(inputId = "plot_height",
+                                        label = "Height",
+                                        value = 600,
+                                        min = 1,
+                                        max = 1000),
+                            
+                            circle = TRUE, status = "danger",
+                            icon = icon("gear"), width = "300px",
+                            
+                            tooltip = tooltipOptions(title = "Click to adjust plot dimentions!")
+                        ),
+                        
+                        # Plot output
+                        plotlyOutput("copy_heatmap")
+                    )
+                
+                
+                
             ),
             
             ###### This is for the table of values ###########
@@ -205,6 +248,14 @@ server <- function(input, output) {
     output$my_heatmap <- renderPlotly({
         ggplotly(p(), tooltip = "text") %>%
             style(xgap = 1, ygap = 1)
+        
+    })
+    
+    # render plot into plotly -> to make it more interactive!
+    output$copy_heatmap <- renderPlotly({
+        ggplotly(p(), tooltip = "text") %>%
+            style(xgap = 1, ygap = 1) %>%
+            layout(autosize = F, height = input$plot_height, width = input$plot_width)
         
     })
     
